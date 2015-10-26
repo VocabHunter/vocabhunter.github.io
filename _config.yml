@@ -1,0 +1,9 @@
+# Site settings
+title: VocabHunter
+description: > # this means to ignore newlines until "baseurl:"
+  The contents of this website are © 2015 Adam Carroll under the terms of the Apache Licence, Version 2.0.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://vocabhunter.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
