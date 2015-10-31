@@ -9,7 +9,7 @@ You will need Java 8 installed and configured on your system.  You can find it o
 
 # Download the Release
 
-The latest release of VocabHunter can be downloaded as a Zip file here: [VocabHunter-1.0.0.zip](https://github.com/VocabHunter/VocabHunter/releases/download/1.0.0/VocabHunter-1.0.0.zip).
+The latest release of VocabHunter can be downloaded as a Zip file here: [VocabHunter-1.0.1.zip](https://github.com/VocabHunter/VocabHunter/releases/download/1.0.1/VocabHunter-1.0.1.zip).
 
 A full list of releases for download can be found on the [project download page](https://github.com/VocabHunter/VocabHunter/releases).
 
