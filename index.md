@@ -7,6 +7,6 @@ The system will analyse a document and give an ordered list of the most frequent
 ![Edit](/assets/VocabHunterEdit.png)
 Once the user has selected the words that are new to them, they can then view them in the user interface or export them to a file.  Here you can see the selected words being viewed directly in the user interface:
 ![View Selection](/assets/VocabHunterViewSelection.png)
-The system itself is a self-contained Java desktop application.  There is no server component to VocabHunter.  It is written in Java 8 and uses the JavaFX framework that comes as part of the standard Java 8 distribution for the user interface.  It will run on any operating system that supports Java 8.
+The program will run on any operating system that supports Java 8 including Microsoft Windows, Apple OS X and Linux.  The system itself is a self-contained Java desktop application.  There is no server component to VocabHunter.  For download and installation instructions, see the [download](/download) page.
 
 VocabHunter is Open Source Software, published under the [Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).

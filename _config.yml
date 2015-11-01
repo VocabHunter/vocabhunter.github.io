@@ -7,3 +7,5 @@ url: "http://vocabhunter.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+release_version: 1.0.1
