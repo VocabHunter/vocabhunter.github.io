@@ -1,0 +1,3 @@
+Sitemap: http://vocabhunter.github.io/sitemap.xml
+User-agent: *
+Disallow:
