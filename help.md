@@ -35,7 +35,7 @@ Finally, do make sure that you regularly save your session so that you don't los
 # View the New Vocab
 
 Once you have marked some words as being new vocab for you, you can take a look at the fruits of your labour by pressing the "Show Selection" button.  This will restrict the word list on the right-hand side of the window to show only your new vocab.  The following shows this:
-![Screenhot of VocabHunter showing selected vocab](/assets/VocabHunterViewSelection.png)
+![Screenshot of VocabHunter showing selected vocab](/assets/VocabHunterViewSelection.png)
 
 At any time you can return to your hunt for new vocab by pressing the "Select Words" button.
 
