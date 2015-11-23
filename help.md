@@ -42,3 +42,9 @@ At any time you can return to your hunt for new vocab by pressing the "Select Wo
 # Export the New Vocab
 
 In addition to viewing your new vocab in the main window, you can also write the words out to a file.  To do this, press the "Export Selection" button.  You will be prompted with a standard file dialogue in which you can give the file a name and choose where to save it.  The file is a simple text file that you can open in any standard text editing, word processing or spreadsheet software.
+
+# What to Do if You Find a Bug
+
+If you find a bug, please report it.  You can find details on how to do this on the [How to Report a Bug](/issues) page.
+
+If you can fix the problem yourself, please send a [GitHub Pull Request](https://help.github.com/articles/using-pull-requests/).
