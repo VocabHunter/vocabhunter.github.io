@@ -10,9 +10,9 @@ You will need Java 8 installed and configured on your system.  You can find it o
 
 # Apple Mac
 
-Download the latest release here: [VocabHunter.app.zip](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter.app.zip)
+Download the latest release here: [VocabHunter-{{site.release_version}}.dmg](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.dmg)
 
-Unzip the file and drag the ``VocabHunter.app`` file into your ``Applications`` folder and then you should be able to launch it like any other Mac application.
+Double click the file and in the window that opens, drag the ``VocabHunter.app`` file into the ``Applications`` folder.  You should be able to launch it like any other Mac application.
 
 Depending on the Gatekeeper settings on your Mac you may have problems opening the application for the first time.  If you do, open the ``Applications`` folder in the Finder and right-click on the ``VocabHunter.app``.  Choose 'Open' in the menu that appears and you should then see a dialogue checking whether you really want to open the application.  Select 'Open' now and VocabHunter should start without problems.  Once you've done this once, your Mac will remember your choice and you should subsequently be able to start VocabHunter without problems.
 
