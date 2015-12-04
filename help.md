@@ -11,12 +11,12 @@ This page guides you through the process of using VocabHunter.
 # Install and Run VocabHunter
 
 First you will need to install the the program and start it up.  You can find instructions for this on the [download](/download) page.  After starting up the program you will see the following:
-![Screenshot of VocabHunter initial window](/assets/VocabHunterInitial.png)
+![Screenshot of VocabHunter initial window](/assets/VocabHunter-initial-window.png)
 
 # Analyse a Document
 
 Press the "New" button to choose a document to analyse.  VocabHunter can read  a variety of formats including plain text, Microsoft Word and PDF documents.  After clicking on the "New" button you can select your document using a standard file dialogue.  The system will now load and analyse your document and you will see the results of the analysis in the user interface.  You should see something similar to the following:
-![Screenshot of VocabHunter in use](/assets/VocabHunterEdit.png)
+![Screenshot of VocabHunter in use](/assets/VocabHunter-in-use.png)
 
 # Save the Session
 
@@ -35,7 +35,7 @@ Finally, do make sure that you regularly save your session so that you don't los
 # View the New Vocab
 
 Once you have marked some words as being new vocab for you, you can take a look at the fruits of your labour by pressing the "Show Selection" button.  This will restrict the word list on the right-hand side of the window to show only your new vocab.  The following shows this:
-![Screenshot of VocabHunter showing selected vocab](/assets/VocabHunterViewSelection.png)
+![Screenshot of VocabHunter showing selected vocab](/assets/VocabHunter-selected-vocab.png)
 
 At any time you can return to your hunt for new vocab by pressing the "Select Words" button.
 
