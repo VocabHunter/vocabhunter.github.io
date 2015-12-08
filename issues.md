@@ -24,7 +24,7 @@ Please take care not to upload any copyrighted material.
 
 If you're installed VocabHunter as a Mac application, you can find the log file under the application directory as follows:
 
-``VocabHunter.app/Contents/Java/logs/system.log``
+``~/Library/VocabHunter/system.log``
 
 Otherwise, you'll find the file at the following path:
 
