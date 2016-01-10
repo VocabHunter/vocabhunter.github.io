@@ -14,17 +14,24 @@ Download the latest release here: [VocabHunter-{{site.release_version}}.dmg](htt
 
 Double click the file and in the window that opens, drag the ``VocabHunter.app`` file into the ``Applications`` folder.  You should be able to launch it like any other Mac application.
 
-# Linux
-
-The latest release of VocabHunter can be downloaded as a Zip file here: [VocabHunter-{{site.release_version}}.zip](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.zip).
-
-First extract the contents of the Zip file into a directory.  Then run the ``VocabHunter`` file found in the ``bin`` directory.
-
 # Microsoft Windows
 
 The latest release of VocabHunter can be downloaded as a Zip file here: [VocabHunter-{{site.release_version}}.zip](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.zip).
 
 First extract the contents of the Zip file into a directory.  Then run the ``VocabHunter.bat`` file found in the ``bin`` directory.  Depending on your Windows version and settings you may see an error preventing you from running the program.  If you do, click the 'More Info' hyperlink and then choose the 'Run Anyway' option.
+
+# Linux
+
+The latest release of VocabHunter can be downloaded as a Deb file here: [VocabHunter-{{site.release_version}}.deb](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.deb).
+
+You can install the package as follows:
+
+~~~
+$ sudo dpkg -i vocabhunter-{{site.release_version}}.deb
+$ sudo sed -i "s|app.runtime=.*|app.runtime=$JAVA_HOME|g" /opt/VocabHunter/app/VocabHunter.cfg
+~~~
+
+VocabHunter will now run like any other Linux desktop application.
 
 # What to Do Now
 
