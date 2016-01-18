@@ -10,4 +10,4 @@ gems:
 # Build settings
 markdown: kramdown
 
-release_version: 1.0.7
+release_version: 1.0.8
