@@ -22,13 +22,13 @@ Please take care not to upload any copyrighted material.
 
 # Where to Find the Log File
 
-If you're installed VocabHunter as a Mac application, you can find the log file under the application directory as follows:
+The `system.log` file contains information that can help to find out what VocabHunter was doing when a problem occurred.  The location of this file depends on the system you're using:
 
-``~/Library/VocabHunter/system.log``
-
-Otherwise, you'll find the file at the following path:
-
-``VocabHunter/logs/system.log``
+| Operating System   | Directory                                 |
+|--------------------|-------------------------------------------|
+| Apple OSX:         | ``~/Library/VocabHunter/logs/system.log`` |
+| Microsoft Windows: | ``%APPDATA%\VocabHunter\logs\system.log`` |
+| Linux:             | ``~/.VocabHunter/logs/system.log``        |
 
 # Fixing Problems
 
