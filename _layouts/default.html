@@ -5,6 +5,7 @@
   {% include google_analytics.html %}
 
   <body>
+    <span itemscope itemtype="http://schema.org/SoftwareApplication">
 
     {% include header.html %}
 
@@ -16,6 +17,9 @@
 
     {% include footer.html %}
 
+    <meta itemprop="name" content="VocabHunter">
+    <meta itemprop="softwareVersion" content="{{site.release_version}}">
+    </span>
   </body>
 
 </html>
