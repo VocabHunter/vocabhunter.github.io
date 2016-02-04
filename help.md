@@ -4,7 +4,6 @@ title: Help
 permalink: /help/
 weight : 2
 ---
-# Introduction
 
 This page guides you through the process of using VocabHunter.
 

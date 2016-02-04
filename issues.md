@@ -2,6 +2,9 @@
 layout: page
 permalink: /issues/
 ---
+
+You can help out by reporting or fixing problems you find.
+
 # Using the GitHub Issue Tracker
 
 The VocabHunter project uses the GitHub issue tracker.  First of all you'll need an account with GitHub.  If you don't have an account you can create one [here](https://github.com/join).

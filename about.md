@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 weight : 1
 ---
-VocabHunter is Open Source Software, published under the [Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).  See the [download](/download) page for details on how to dowload and run the system.
+
+VocabHunter is a system to help learners of foreign languages.
+
+The system is Open Source Software, published under the [Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).  See the [download](/download) page for details on how to dowload and run the system.
 
 [Adam Carroll](https://github.com/AdamCarroll/) is the principal author of VocabHunter.
 
