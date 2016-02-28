@@ -19,9 +19,9 @@ Double click the file and in the window that opens, drag the ``VocabHunter.app``
 
 # Microsoft Windows
 
-The latest release of VocabHunter can be downloaded as a Zip file here: [VocabHunter-{{site.release_version}}.zip](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.zip).
+The installer for the latest release of VocabHunter can be downloaded here: [VocabHunter-{{site.release_version}}.exe](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.exe).
 
-First extract the contents of the Zip file into a directory.  Then run the ``VocabHunter.bat`` file found in the ``bin`` directory.  Depending on your Windows version and settings you may see an error preventing you from running the program.  If you do, click the 'More Info' hyperlink and then choose the 'Run Anyway' option.
+Double click on the file and you will be taken through the process of installing VocabHunter on your PC.
 
 # Linux
 
@@ -35,6 +35,12 @@ $ sudo sed -i "s|app.runtime=.*|app.runtime=$JAVA_HOME|g" /opt/VocabHunter/app/V
 ~~~
 
 VocabHunter will now run like any other Linux desktop application.
+
+# Installing from a Zip File (Any Operating System)
+
+The latest release of VocabHunter can be downloaded as a Zip file here: [VocabHunter-{{site.release_version}}.zip](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.zip).
+
+First extract the contents of the Zip file into a directory.  Then run the ``VocabHunter`` file  (``VocabHunter.bat`` on Windows) found in the ``bin`` directory.
 
 # What to Do Now
 
