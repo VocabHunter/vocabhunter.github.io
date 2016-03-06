@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 weight : 1
+description: About VocabHunter, acknowledgements and thanks
 ---
 
 VocabHunter is a system to help learners of foreign languages.

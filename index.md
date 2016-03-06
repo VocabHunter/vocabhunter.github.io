@@ -1,4 +1,5 @@
 ---
+title: VocabHunter
 layout: default
 ---
 VocabHunter is a system to help learners of foreign languages.  Reading is a vital skill if you want to learn a foreign language but students often feel that it would be useful to learn the most important vocab for a book before reading it.  VocabHunter enables them to do this.

@@ -1,7 +1,7 @@
 # Site settings
 title: VocabHunter
 description:
-  VocabHunter helps learners of foreign languages hunt for new vocab in documents.
+  VocabHunter helps learners of foreign languages hunt for new vocab in documents
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://vocabhunter.github.io" # the base hostname & protocol for your site
 gems:

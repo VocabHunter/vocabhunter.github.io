@@ -1,6 +1,8 @@
 ---
-layout: page
+title: How to Report a Bug
+layout: default
 permalink: /issues/
+description: How to report a VocabHunter bug
 ---
 
 You can help out by reporting or fixing problems you find.

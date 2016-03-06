@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: Download
 permalink: /download/
 weight : 3
+description: Download VocabHunter for Mac, Windows or Linux
 ---
 
 VocabHunter is available for Mac, Windows and Linux.

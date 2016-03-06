@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: Help
 permalink: /help/
 weight : 2
+description: How to use VocabHunter
 ---
 
 This page guides you through the process of using VocabHunter.
