@@ -6,11 +6,15 @@ weight : 1
 description: About VocabHunter, acknowledgements and thanks
 ---
 
-VocabHunter is a system to help learners of foreign languages.
-
-The system is Open Source Software, published under the [Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).  See the [download](/download) page for details on how to dowload and run the system.
+VocabHunter is a system to help learners of foreign languages.  See the [download](/download) page for details on how to dowload and run the program.
 
 [Adam Carroll](https://github.com/AdamCarroll/) is the principal author of VocabHunter.
+
+# Technical Information
+
+For an introduction to some of the technologies being used, take a look at: [VocabHunter – A tool for learners of foreign languages](https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/).
+
+The system is Open Source Software, published under the [Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).  You can find the source code on GitHub [here](https://github.com/VocabHunter/VocabHunter).
 
 # Acknowledgements and Thanks
 
