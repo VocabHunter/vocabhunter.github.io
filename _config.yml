@@ -11,5 +11,5 @@ gems:
 # Build settings
 markdown: kramdown
 
-release_version: 1.0.12
+release_version: 1.0.13
 
