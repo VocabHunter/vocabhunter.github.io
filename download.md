@@ -48,6 +48,15 @@ The latest release of VocabHunter can be downloaded as a Zip file here: [VocabHu
 
 First extract the contents of the Zip file into a directory.  Then run the ``VocabHunter`` file  (``VocabHunter.bat`` on Windows) found in the ``bin`` directory.
 
+# Using the OpenJDK
+
+VocabHunter works well with the OpenJDK 8 as well as the official Oracle Java.  If you choose to use the OpenJDK instead of the Oracle Java, ensure that you also have JavaFX installed.  For example, on Ubuntu 16.04 you can install the OpenJDK 8 and JavaFX as follows:
+
+~~~
+$ sudo apt-get install openjdk-8-jre
+$ sudo apt-get install openjfx
+~~~
+
 # What to Do Now
 
 Once you've installed the system and started it up you can begin hunting for vocab.  See the [help](/help) page for a guide to using VocabHunter.
