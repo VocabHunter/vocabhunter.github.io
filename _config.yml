@@ -5,6 +5,7 @@ description:
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://vocabhunter.github.io" # the base hostname & protocol for your site
 twitter_username: vocabhunterapp
+twitter_link: https://twitter.com/vocabhunterapp
 gems:
   - jekyll-sitemap
 

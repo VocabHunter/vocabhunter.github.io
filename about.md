@@ -6,7 +6,7 @@ weight : 1
 description: About VocabHunter, acknowledgements and thanks
 ---
 
-VocabHunter is a system to help learners of foreign languages.  See the [download](/download) page for details on how to dowload and run the program.
+VocabHunter is a system to help learners of foreign languages.  See the [download](/download) page for details on how to download and run the program.  You can follow VocabHunter on Twitter at [@{{site.twitter_username}}]({{site.twitter_link}}).
 
 [Adam Carroll](https://github.com/AdamCarroll/) is the principal author of VocabHunter.
 

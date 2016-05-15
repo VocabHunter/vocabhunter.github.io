@@ -49,6 +49,10 @@ As you are working through a document, it is useful to know how many words you h
 
 ![Screenshot of VocabHunter showing the progress report](/assets/VocabHunter-progress-report.png)
 
+# News and Announcements
+
+To get all the latest news about VocabHunter including announcements of new releases, follow [@{{site.twitter_username}}]({{site.twitter_link}}) on Twitter.
+
 # What to Do if You Find a Bug
 
 If you find a bug, please report it.  You can find details on how to do this on the [How to Report a Bug](/issues) page.
