@@ -51,7 +51,7 @@ As you are working through a document, it is useful to know how many words you h
 
 # News and Announcements
 
-To get all the latest news about VocabHunter including announcements of new releases, follow [@{{site.twitter_username}}]({{site.twitter_link}}) on Twitter.
+To get all the latest news about VocabHunter including announcements of new releases, follow [@{{site.twitter.username}}]({{site.twitter.link}}) on Twitter.
 
 # What to Do if You Find a Bug
 

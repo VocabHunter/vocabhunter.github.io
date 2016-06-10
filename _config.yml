@@ -4,10 +4,15 @@ description:
   VocabHunter helps learners of foreign languages hunt for new vocab in documents
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://vocabhunter.github.io" # the base hostname & protocol for your site
-twitter_username: vocabhunterapp
-twitter_link: https://twitter.com/vocabhunterapp
+logo: /assets/VocabHunter-Logo.png
+
+twitter:
+  username: vocabhunterapp
+  link: https://twitter.com/vocabhunterapp
+
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown

@@ -3,9 +3,6 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-
     <link rel="shortcut icon" href="/assets/favicon.ico">
     <link rel="icon" sizes="16x16 32x32 64x64" href="/assets/favicon.ico">
     <link rel="icon" type="image/png" sizes="196x196" href="/assets/favicon-192.png">
@@ -30,11 +27,9 @@
     <meta name="og:image" content="{{site.url}}/assets/VocabHunterOpenGraph.png">
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@{{ site.twitter_username }}" />
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <meta name="twitter:image" content="{{site.url}}/assets/VocabHunter-Twitter-Summary-Card.png" />
+    {% seo %}
 </head>
