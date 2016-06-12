@@ -3,6 +3,7 @@ title: How to Report a Bug
 layout: default
 permalink: /issues/
 description: How to report a VocabHunter bug
+image: /assets/VocabHunter-Summary-Card.png
 ---
 
 You can help out by reporting or fixing problems you find.

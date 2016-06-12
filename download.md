@@ -4,6 +4,7 @@ title: Download
 permalink: /download/
 weight : 3
 description: Download VocabHunter for Mac, Windows or Linux
+image: /assets/VocabHunter-Summary-Card.png
 ---
 
 VocabHunter is available for Mac, Windows and Linux.

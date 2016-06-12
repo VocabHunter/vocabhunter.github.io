@@ -4,6 +4,7 @@ title: Help
 permalink: /help/
 weight : 2
 description: How to use VocabHunter
+image: /assets/VocabHunter-Summary-Card.png
 ---
 
 This page guides you through the process of using VocabHunter.
