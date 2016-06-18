@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 weight : 1
 description: About VocabHunter, acknowledgements and thanks
-image: /assets/VocabHunter-Summary-Card.png
+image: /assets/VocabHunter-About.png
 ---
 
 VocabHunter is a system to help learners of foreign languages.  See the [download](/download) page for details on how to download and run the program.  You can follow VocabHunter on Twitter at [@{{site.twitter.username}}]({{site.twitter.link}}).
