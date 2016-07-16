@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 title: Help
 permalink: /help/
-weight : 2
+weight : 3
 description: How to use VocabHunter
 image: /assets/VocabHunter-Help.png
 ---

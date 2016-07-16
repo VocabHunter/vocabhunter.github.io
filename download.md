@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 title: Download
 permalink: /download/
-weight : 3
+weight : 4
 description: Download VocabHunter for Mac, Windows or Linux
 image: /assets/VocabHunter-Download.png
 ---

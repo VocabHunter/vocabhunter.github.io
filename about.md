@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 title: About
 permalink: /about/
-weight : 1
+weight : 2
 description: About VocabHunter, acknowledgements and thanks
 image: /assets/VocabHunter-About.png
 ---

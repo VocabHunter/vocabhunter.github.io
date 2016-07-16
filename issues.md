@@ -1,6 +1,6 @@
 ---
 title: How to Report a Bug
-layout: default
+layout: page
 permalink: /issues/
 description: How to report a VocabHunter bug
 image: /assets/VocabHunter-Issue.png
