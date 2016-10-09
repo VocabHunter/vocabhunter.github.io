@@ -23,6 +23,16 @@ VocabHunter v1.0.17 is now available.  Get your copy from the [download](/downlo
 * As usual, a few software libraries used internally by VocabHunter were updated.
 
 # User Interface Testing with TestFX
-[![User Interface Testing with TestFX](/assets/VocabHunter-TestFX.png)](/2016/07/27/TestFX.html)
+[![User Interface Testing with TestFX](/assets/VocabHunter-TestFX.png)][TestFX]
 
-If you're interested in automated user interface testing, take a look at the article I wrote while working on this release: [User Interface Testing with TestFX](/2016/07/27/TestFX.html).
+If you're interested in automated user interface testing, take a look at the article I wrote while working on this release: [User Interface Testing with TestFX][TestFX].
+
+___
+
+# Related Articles
+* [How JavaFX was used to build a desktop application][KingTechBlog2] (King Tech Blog)
+* [VocabHunter – A tool for learners of foreign languages][KingTechBlog1] (King Tech Blog)
+
+[TestFX]:/2016/07/27/TestFX.html
+[KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
+[KingTechBlog2]:https://techblog.king.com/javafx-used-build-desktop-application/
