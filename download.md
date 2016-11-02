@@ -38,7 +38,6 @@ You can install the package as follows:
 
 ~~~
 $ sudo dpkg -i vocabhunter-{{site.release_version}}.deb
-$ sudo sed -i "s|app.runtime=.*|app.runtime=$JAVA_HOME|g" /opt/VocabHunter/app/VocabHunter.cfg
 ~~~
 
 VocabHunter will now run like any other Linux desktop application.
