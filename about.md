@@ -28,7 +28,8 @@ Like all good Open Source projects, VocabHunter builds on the software and work 
 * [TestFX][TestFXProject] is used for the automated GUI test.  The detailed guide [User Interface Testing with TestFX][TestFXBlog] explains how this works.
 * [ControlsFX] is used for some of the GUI components including the status bar.
 * The installable bundles are created using the [javafx-gradle-plugin].
-* [Font Awesome] was used for various VocabHunter icons.
+* VocabHunter uses [FontAwesomeFX] to generate various icons from the [Font Awesome] set.
+* Dependency Injection is handled with [Gluon Ignite] and [Guice].
 
 [Adam Carroll]:https://github.com/AdamCarroll/
 [download]:/download
@@ -45,3 +46,6 @@ Like all good Open Source projects, VocabHunter builds on the software and work 
 [ControlsFX]:http://fxexperience.com/controlsfx/
 [javafx-gradle-plugin]:https://github.com/FibreFoX/javafx-gradle-plugin
 [Font Awesome]:https://fortawesome.github.io/Font-Awesome/
+[FontAwesomeFX]:https://bitbucket.org/Jerady/fontawesomefx
+[Gluon Ignite]:http://gluonhq.com/labs/ignite/
+[Guice]:https://github.com/google/guice
