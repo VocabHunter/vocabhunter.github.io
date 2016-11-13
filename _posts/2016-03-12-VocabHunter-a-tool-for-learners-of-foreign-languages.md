@@ -16,7 +16,9 @@ ___
 # Related Articles
 * [How JavaFX was used to build a desktop application][KingTechBlog2] (King Tech Blog)
 * [User Interface Testing with TestFX][TestFX]
+* [Dependency Injection in JavaFX][DependencyInjection]
 
 [TestFX]:/2016/07/27/TestFX.html
+[DependencyInjection]:/2016/11/13/JavaFX-Dependency-Injection.html
 [KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
 [KingTechBlog2]:https://techblog.king.com/javafx-used-build-desktop-application/
