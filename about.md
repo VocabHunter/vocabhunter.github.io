@@ -18,6 +18,7 @@ The system is Open Source Software, published under the [Apache Licence, Version
 * [VocabHunter – A tool for learners of foreign languages][KingTechBlog1] (King Tech Blog) - An introduction to some of the technologies being used in VocabHunter.
 * [How JavaFX was used to build a desktop application][KingTechBlog2] (King Tech Blog) - A detailed look at several important features of JavaFX using VocabHunter as an example.
 * [User Interface Testing with TestFX][TestFXBlog] - A guide to automating user interface tests using TestFX.
+* [Dependency Injection in JavaFX][DependencyInjection] - How to implement Dependency Injection in a JavaFX application.
 
 # Acknowledgements and Thanks
 
@@ -29,7 +30,7 @@ Like all good Open Source projects, VocabHunter builds on the software and work 
 * [ControlsFX] is used for some of the GUI components including the status bar.
 * The installable bundles are created using the [javafx-gradle-plugin].
 * VocabHunter uses [FontAwesomeFX] to generate various icons from the [Font Awesome] set.
-* Dependency Injection is handled with [Gluon Ignite] and [Guice].
+* Dependency Injection is handled with [Gluon Ignite] and [Guice].  You can find out all about this in the article [Dependency Injection in JavaFX][DependencyInjection].
 
 [Adam Carroll]:https://github.com/AdamCarroll/
 [download]:/download
@@ -37,6 +38,7 @@ Like all good Open Source projects, VocabHunter builds on the software and work 
 [GitHub]:https://github.com/VocabHunter/VocabHunter
 
 [TestFXBlog]:/2016/07/27/TestFX.html
+[DependencyInjection]:/2016/11/13/JavaFX-Dependency-Injection.html
 [KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
 [KingTechBlog2]:https://techblog.king.com/javafx-used-build-desktop-application/
 
