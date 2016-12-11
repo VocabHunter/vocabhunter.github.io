@@ -12,12 +12,12 @@ This page guides you through the process of using VocabHunter.
 # Install and Run VocabHunter
 
 First you will need to install the the program and start it up.  You can find instructions for this on the [download](/download) page.  After starting up the program you will see the following:
-![Screenshot of VocabHunter initial window](/assets/VocabHunter-initial-window.png)
+![Screenshot of VocabHunter initial window](/assets/VocabHunter-initial-window.png){: .center-image }
 
 # Analyse a Document
 
 Press the "New" button to choose a document to analyse.  VocabHunter can read  a variety of formats including plain text, Microsoft Word and PDF documents.  After clicking on the "New" button you can select your document using a standard file dialogue.  The system will now load and analyse your document and you will see the results of the analysis in the user interface.  You should see something similar to the following:
-![Screenshot of VocabHunter in use](/assets/VocabHunter-in-use.png)
+![Screenshot of VocabHunter in use](/assets/VocabHunter-in-use.png){: .center-image }
 
 # Save the Session
 
@@ -36,7 +36,7 @@ Finally, do make sure that you regularly save your session so that you don't los
 # View the New Vocab
 
 Once you have marked some words as being new vocab for you, you can take a look at the fruits of your labour by pressing the "Show Selection" button.  This will restrict the word list on the right-hand side of the window to show only your new vocab.  The following shows this:
-![Screenshot of VocabHunter showing selected vocab](/assets/VocabHunter-selected-vocab.png)
+![Screenshot of VocabHunter showing selected vocab](/assets/VocabHunter-selected-vocab.png){: .center-image }
 
 At any time you can return to your hunt for new vocab by pressing the "Select Words" button.
 
@@ -48,7 +48,7 @@ In addition to viewing your new vocab in the main window, you can also write the
 
 As you are working through a document, it is useful to know how many words you have marked, what remains to be done and other statistics.  You can find this information in the "Progress Report" tab:
 
-![Screenshot of VocabHunter showing the progress report](/assets/VocabHunter-progress-report.png)
+![Screenshot of VocabHunter showing the progress report](/assets/VocabHunter-progress-report.png){: .center-image }
 
 # News and Announcements
 

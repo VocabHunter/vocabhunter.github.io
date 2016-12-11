@@ -7,7 +7,7 @@ author: Adam Carroll
 description: How to implement Dependency Injection in a JavaFX application.  This guide gives a concrete example using Gluon Ignite and Google Guice.
 excerpt: A guide to implementing Dependency Injection in a JavaFX application.  In this post you can learn all about how this was done in VocabHunter using Gluon Ignite and Google Guice.
 ---
-![Dependency Injection in JavaFX](/assets/VocabHunter-Dependency-Injection.png)
+![Dependency Injection in JavaFX](/assets/VocabHunter-Dependency-Injection.png){: .center-image }
 
 # Introduction
 
@@ -35,7 +35,7 @@ Prior to release 1.0.18 of VocabHunter and my rework of the Dependency Injection
 
 Let’s take a look at an example from VocabHunter of how Dependency Injection is used.  The ‘About’ dialogue is one of the simplest parts of the user interface and shows some basic information about the program.  It also includes a pair of hyperlink components, a close button and a label with the system version number:
 
-![VocabHunter 'About' Dialogue](/assets/VocabHunter-About-Dialogue.png)
+![VocabHunter 'About' Dialogue](/assets/VocabHunter-About-Dialogue.png){: .center-image }
 
 When the user clicks on one of the hyperlinks, VocabHunter calls an internal component, the [`WebPageTool`], to handle the request to open the web page.  The layout of the dialogue is all described in an FXML file, [about.fxml], and this is loaded by JavaFX to instantiate all of the components.  This means that we immediately have the problem of the two sources of components:
 

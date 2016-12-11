@@ -8,13 +8,13 @@ description: VocabHunter v1.0.18 is now available for free download for Mac, Win
 excerpt: v1.0.18 of VocabHunter is now available for download for Mac, Windows and Linux.  Read all about it here.
 ---
 # New Release
-![VocabHunter v1.0.18](/assets/VocabHunter-Release-v1.0.18.png)
+![VocabHunter v1.0.18](/assets/VocabHunter-Release-v1.0.18.png){: .center-image }
 
 VocabHunter v1.0.18 is now available.  Get your copy from the [download](/download) page.  The main changes in this release are:
 
 * The icons used throughout the user interface are now generated using [FontAwesomeFX] rather than being static images.  This results in a very subtle improvement in the current look and feel of the program but more importantly makes it easier to implement future improvements.  You can see the icons in use here:
 
-![FontAwesomeFX Icons](/assets/VocabHunter-FontAwesomeFX-Icons.png)
+![FontAwesomeFX Icons](/assets/VocabHunter-FontAwesomeFX-Icons.png){: .center-image }
 
 * A problem with the Linux installer has now been fixed. The problem related to the installer failing to find Java. Thanks to [Danny Althoff] for providing the fix for this. See [issue #6](https://github.com/VocabHunter/VocabHunter/issues/6) for all the details.
 * The Windows installer now lets you choose the install directory rather than forcing the default. Again, thanks to [Danny Althoff] for the tip about fixing this problem.
@@ -25,7 +25,7 @@ VocabHunter v1.0.18 is now available.  Get your copy from the [download](/downlo
 * As usual, a few software libraries used internally by VocabHunter were updated.
 
 # How JavaFX was used to build a desktop application
-[![How JavaFX was used to build a desktop application](/assets/VocabHunter-JavaFX.png)][KingTechBlog2]
+[![How JavaFX was used to build a desktop application](/assets/VocabHunter-JavaFX.png){: .center-image }][KingTechBlog2]
 
 While working on this release, I published this article on the King Tech Blog: [How JavaFX was used to build a desktop application][KingTechBlog2].  The article looks at some of the features of JavaFX used in the VocabHunter user interface and includes examples and links to the relevant code on GitHub.
 

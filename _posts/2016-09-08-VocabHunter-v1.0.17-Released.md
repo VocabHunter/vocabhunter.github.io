@@ -8,13 +8,13 @@ description: VocabHunter v1.0.17 is now available for free download for Mac, Win
 excerpt: VocabHunter v1.0.17 is now available for download for Mac, Windows and Linux.  Take a look here to find out what's new!
 ---
 # New Release
-![VocabHunter v1.0.17](/assets/VocabHunter-Release-v1.0.17.png)
+![VocabHunter v1.0.17](/assets/VocabHunter-Release-v1.0.17.png){: .center-image }
 
 VocabHunter v1.0.17 is now available.  Get your copy from the [download](/download) page.  The main changes in this release are:
 
 * The status bar now shows a small graph so that you can tell at a glance how far you are through the process of analysing a document.  If you hover the mouse pointer over the graph a pop-up tooltip shows you the percentage value.  As before, you can get more detailed information in the "Progress Report" tab.
 
-![Status Bar Mini Graph](/assets/VocabHunter-StatusBar-MiniGraph.png)
+![Status Bar Mini Graph](/assets/VocabHunter-StatusBar-MiniGraph.png){: .center-image }
 
 * On the subject of the status bar, this is a component from the [ControlsFX](http://fxexperience.com/controlsfx/) library which has been updated in this release to use v8.40.12.
 * VocabHunter now saves the window size and position when you close the application.  The next time you start up VocabHunter, the window will open where you left it previously.
@@ -24,7 +24,7 @@ VocabHunter v1.0.17 is now available.  Get your copy from the [download](/downlo
 * As usual, a few software libraries used internally by VocabHunter were updated.
 
 # User Interface Testing with TestFX
-[![User Interface Testing with TestFX](/assets/VocabHunter-TestFX.png)][TestFX]
+[![User Interface Testing with TestFX](/assets/VocabHunter-TestFX.png){: .center-image }][TestFX]
 
 If you're interested in automated user interface testing, take a look at the article I wrote while working on this release: [User Interface Testing with TestFX][TestFX].
 
