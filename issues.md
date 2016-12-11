@@ -38,4 +38,4 @@ The `system.log` file contains information that can help to find out what VocabH
 
 # Fixing Problems
 
-VocabHunter is Open Source Software and the project welcomes code contributions.  If you can fix the problem yourself, please send a [GitHub Pull Request](https://help.github.com/articles/using-pull-requests/).
+VocabHunter is Open Source Software and the project welcomes code contributions.  If you can fix the problem yourself, please send a [GitHub Pull Request](https://help.github.com/articles/about-pull-requests/).
