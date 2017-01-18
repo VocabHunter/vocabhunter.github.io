@@ -19,6 +19,7 @@ The system is Open Source Software, published under the [Apache Licence, Version
 * [How JavaFX was used to build a desktop application][KingTechBlog2] (King Tech Blog) - A detailed look at several important features of JavaFX using VocabHunter as an example.
 * [User Interface Testing with TestFX][TestFXBlog] - A guide to automating user interface tests using TestFX.
 * [Dependency Injection in JavaFX][DependencyInjection] - How to implement Dependency Injection in a JavaFX application.
+* [Building a JavaFX Search Bar] - How the user interface for the search bar works with details of the use of ControlsFX and FontAwesomeFX in giving the bar a distinctive style.
 
 # Acknowledgements and Thanks
 
@@ -39,6 +40,8 @@ Like all good Open Source projects, VocabHunter builds on the software and work 
 
 [TestFXBlog]:/2016/07/27/TestFX.html
 [DependencyInjection]:/2016/11/13/JavaFX-Dependency-Injection.html
+[Building a JavaFX Search Bar]:/2017/01/15/Search-Bar.html
+
 [KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
 [KingTechBlog2]:https://techblog.king.com/javafx-used-build-desktop-application/
 
