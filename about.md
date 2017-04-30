@@ -26,7 +26,7 @@ The system is Open Source Software, published under the [Apache Licence, Version
 Like all good Open Source projects, VocabHunter builds on the software and work of others.  This includes but is not limited to:
 
 * The user interface of VocabHunter is built with the [JavaFX] library that now comes as standard, as part of Java 8.
-* The [Apache Tika] project provides the components that make it possible to read a wide variety of document formats.
+* The [Apache Tika] project provides the components that make it possible to read a wide variety of document formats.  You can learn more about this in the article [Read (Almost) Any Document in Java].
 * [TestFX][TestFXProject] is used for the automated GUI test.  The detailed guide [User Interface Testing with TestFX][TestFXBlog] explains how this works.
 * [ControlsFX] is used for some of the GUI components including the status bar.
 * The installable bundles are created using the [javafx-gradle-plugin].
@@ -41,6 +41,7 @@ Like all good Open Source projects, VocabHunter builds on the software and work 
 [TestFXBlog]:/2016/07/27/TestFX.html
 [DependencyInjection]:/2016/11/13/JavaFX-Dependency-Injection.html
 [Building a JavaFX Search Bar]:/2017/01/15/Search-Bar.html
+[Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
 
 [KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
 [KingTechBlog2]:https://techblog.king.com/javafx-used-build-desktop-application/
