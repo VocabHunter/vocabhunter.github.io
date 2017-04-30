@@ -32,6 +32,7 @@ While working on this release, I published this article on the King Tech Blog: [
 ___
 
 # Related Articles
+* [Read (Almost) Any Document in Java]
 * [Building a JavaFX Search Bar]
 * [Dependency Injection in JavaFX][DependencyInjection]
 * [VocabHunter – A tool for learners of foreign languages][KingTechBlog1] (King Tech Blog)
@@ -40,6 +41,7 @@ ___
 [TestFX]:/2016/07/27/TestFX.html
 [DependencyInjection]:/2016/11/13/JavaFX-Dependency-Injection.html
 [Building a JavaFX Search Bar]:/2017/01/15/Search-Bar.html
+[Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
 
 [KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
 [KingTechBlog2]:https://techblog.king.com/javafx-used-build-desktop-application/

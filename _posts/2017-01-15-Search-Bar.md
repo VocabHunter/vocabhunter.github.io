@@ -179,6 +179,7 @@ Finally, VocabHunter is Open Source and all of the code is available in [GitHub]
 ___
 
 # Related Articles
+* [Read (Almost) Any Document in Java]
 * [How JavaFX was used to build a desktop application][KingTechBlog2] (King Tech Blog)
 * [User Interface Testing with TestFX][TestFXBlog]
 * [Dependency Injection in JavaFX][DependencyInjection]
@@ -191,6 +192,7 @@ ___
 [TestFXBlog]:/2016/07/27/TestFX.html
 [KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
 [KingTechBlog2]:https://techblog.king.com/javafx-used-build-desktop-application/
+[Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
 
 [FontAwesomeFX]:https://bitbucket.org/Jerady/fontawesomefx
 [FontAwesomeFX Glyphs Browser]:https://github.com/Jerady/fontawesomefx-glyphsbrowser

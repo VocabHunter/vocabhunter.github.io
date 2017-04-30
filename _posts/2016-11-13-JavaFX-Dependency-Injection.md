@@ -264,6 +264,7 @@ Finally, I should mention that any mistakes here are all my own.  If you spot a 
 ___
 
 # Related Articles
+* [Read (Almost) Any Document in Java]
 * [Building a JavaFX Search Bar]
 * [User Interface Testing with TestFX][TestFXBlog]
 * [How JavaFX was used to build a desktop application][KingTechBlog2] (King Tech Blog)
@@ -274,6 +275,7 @@ ___
 [FixedVersion]:https://github.com/VocabHunter/VocabHunter/tree/1.0.18
 [TestFXBlog]:/2016/07/27/TestFX.html
 [Building a JavaFX Search Bar]:/2017/01/15/Search-Bar.html
+[Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
 
 [KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
 [KingTechBlog2]:https://techblog.king.com/javafx-used-build-desktop-application/
