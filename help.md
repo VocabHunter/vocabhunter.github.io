@@ -9,6 +9,11 @@ image: /assets/VocabHunter-Help.png
 
 This page guides you through the process of using VocabHunter.
 
+# Contents
+
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 # Install and Run VocabHunter
 
 First you will need to install the the program and start it up.  You can find instructions for this on the [download](/download) page.  After starting up the program you will see the following:
