@@ -3,7 +3,7 @@ layout: post
 title:  "Read (Almost) Any Document in Java"
 date:   2017-04-30
 image: /assets/VocabHunter-Read-Any-Document-Title.png
-author: Adam Carroll
+author: Adam
 description: Using Apache Tika to read over 1000 different formats from Microsoft Word to PDF, all through a simple Java API.
 excerpt: Find out how to use Apache Tika to extract the text from a document in one of over a thousand different formats ranging from Microsoft Word through to PDF, all through a simple Java API.
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Dependency Injection in JavaFX"
 date:   2016-11-13
 image: /assets/VocabHunter-Dependency-Injection.png
-author: Adam Carroll
+author: Adam
 description: How to implement Dependency Injection in a JavaFX application.  This guide gives a concrete example using Gluon Ignite and Google Guice.
 excerpt: A guide to implementing Dependency Injection in a JavaFX application.  In this post you can learn all about how this was done in VocabHunter using Gluon Ignite and Google Guice.
 ---

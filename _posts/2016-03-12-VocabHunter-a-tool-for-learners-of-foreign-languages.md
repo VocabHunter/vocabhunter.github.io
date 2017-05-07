@@ -3,7 +3,7 @@ layout: post
 title:  "VocabHunter – A tool for learners of foreign languages"
 date:   2016-03-12
 image: /assets/VocabHunter-Blog.png
-author: Adam Carroll
+author: Adam
 description: All about the technologies behind VocabHunter
 excerpt: All about the technologies behind VocabHunter.
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Building a JavaFX Search Bar"
 date:   2017-01-15
 image: /assets/VocabHunter-Search-Bar-Title.png
-author: Adam Carroll
+author: Adam
 description: Building a JavaFX Search Bar. How JavaFX, ControlsFX and FontAwesomeFX were used to create an attractive and useful user interface component.
 excerpt: A detailed technical look at the new VocabHunter search bar component. This post explains how the search bar user interface works and how JavaFX, ControlsFX and FontAwesomeFX were used to create this attractive and useful new user interface component.
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "VocabHunter v1.0.20 Released"
 date:   2017-04-02
 image: /assets/VocabHunter-Release-v1.0.20.png
-author: Adam Carroll
+author: Adam
 description: VocabHunter v1.0.20 is now available for free download for Mac, Windows and Linux
 excerpt: VocabHunter v1.0.20 is now available for free download for Mac, Windows and Linux.  This release comes with new filtering functionality to make it even easier to focus on just the vocabulary that interests you.
 ---

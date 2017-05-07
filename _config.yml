@@ -17,5 +17,10 @@ gems:
 # Build settings
 markdown: kramdown
 
+authors:
+  Adam:
+    display_name: Adam Carroll
+    web: https://github.com/AdamCarroll
+
 release_version: 1.0.20
 
