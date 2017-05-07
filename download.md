@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Download
+title: Download VocabHunter
+short_title: Download
 permalink: /download/
 weight : 4
 description: Download VocabHunter for Mac, Windows or Linux

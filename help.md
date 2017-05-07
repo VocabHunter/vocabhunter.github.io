@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Help
+title: How to Use VocabHunter
+short_title: Help
 permalink: /help/
 weight : 3
 description: How to use VocabHunter

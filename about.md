@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About VocabHunter
+short_title: About
 permalink: /about/
 weight : 2
 description: About VocabHunter, acknowledgements and thanks
