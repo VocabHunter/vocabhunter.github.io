@@ -29,5 +29,6 @@
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <meta name="twitter:image" content="{{site.url}}{{page.image}}" />
-    {% seo %}
+    <title>{{ page.title }}</title>
+    {% seo title=false %}
 </head>
