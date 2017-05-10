@@ -48,7 +48,7 @@ Tika is capable of much more than this and you can also use it for other tasks i
 
 # Final Words
 
-Apache Tika has proved to be a really valuable tool in the VocabHunter project.  I encourage you to investigate it further and see if you can make use of it in your project.  Also, feel free to take a look around the [VocabHunter source code on GitHub][GitHub] to see one way that Tika can be used.  It is all Open Source and I hope you find it interesting.  I welcome code contributions and feedback.
+Apache Tika has proved to be a really valuable tool in the VocabHunter project.  I encourage you to investigate it further and see if you can make use of it in your project.  Also, feel free to [fork VocabHunter on GitHub][GitHub] and play around with the source code to see one way that Tika can be used.  It is all Open Source and I hope you find it interesting.  I welcome code contributions and feedback.
 
 ___
 
