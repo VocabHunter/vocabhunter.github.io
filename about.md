@@ -34,6 +34,11 @@ Like all good Open Source projects, VocabHunter builds on the software and work 
 * VocabHunter uses [FontAwesomeFX] to generate various icons from the [Font Awesome] set.
 * Dependency Injection is handled with [Gluon Ignite] and [Guice].  You can find out all about this in the article [Dependency Injection in JavaFX][DependencyInjection].
 
+Finally, some acknowledgements for this website:
+
+* Output from the [Simple Sharing Buttons Generator] was adapted for the social network sharing buttons on this site.
+* The icons for the sharing buttons come from the [Social Flat Rounded Rects] set by [Aha-Soft].
+
 [Adam Carroll]:https://github.com/AdamCarroll/
 [download]:/download
 [Apache Licence, Version 2.0]:http://www.apache.org/licenses/LICENSE-2.0
@@ -56,3 +61,7 @@ Like all good Open Source projects, VocabHunter builds on the software and work 
 [FontAwesomeFX]:https://bitbucket.org/Jerady/fontawesomefx
 [Gluon Ignite]:http://gluonhq.com/labs/ignite/
 [Guice]:https://github.com/google/guice
+
+[Simple Sharing Buttons Generator]:https://simplesharingbuttons.com/
+[Social Flat Rounded Rects]:https://www.iconfinder.com/iconsets/social-flat-rounded-rects
+[Aha-Soft]:http://www.aha-soft.com/
