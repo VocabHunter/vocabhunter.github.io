@@ -28,6 +28,7 @@ VocabHunter v1.0.17 is now available.  Get your copy from the [download](/downlo
 
 If you're interested in automated user interface testing, take a look at the article I wrote while working on this release: [User Interface Testing with TestFX][TestFX].
 
+{% include share.html %}
 ___
 
 # Related Articles

@@ -13,6 +13,7 @@ I've just released a new version of VocabHunter.  You can get a copy from the [d
 * [Peter Rogge](https://github.com/Naoghuman) spotted a problem relating to opening a saved session.  The list of file types shown in the dialogue was misleading.  This has now been corrected.  Thanks Peter!
 * The [ControlsFX](http://fxexperience.com/controlsfx/) library was updated to v8.40.11.  Various other libraries were also updated.
 
+{% include share.html %}
 ___
 
 # Related Articles

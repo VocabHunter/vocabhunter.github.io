@@ -259,8 +259,9 @@ Finally, you can always do this yourself by taking your preferred Dependency Inj
 
 If you’re not already using Dependency Injection in your JavaFX project, I suggest you take a serious look at doing so.  It really does help to make your code more testable and lightly coupled.  I’ve found that Gluon Ignite and Google Guice seem to work well for me and I hope that this post helps you if you choose to take this or another approach.
 
-Finally, I should mention that any mistakes here are all my own.  If you spot a problem with the implementation in [VocabHunter], give me a shout or even better fix it and send me a [pull request][GitHub]!  VocabHunter is Open Source and you can keep up to date with all developments in the project by following [@{{site.twitter.username}}]({{site.twitter.link}}) on Twitter.
+Finally, I should mention that any mistakes here are all my own.  If you spot a problem with the implementation in [VocabHunter], give me a shout or even better fix it and send me a [pull request][GitHub]!  VocabHunter is Open Source and you can keep up to date with all developments in the project by following [@{{site.twitter.username}}]({{site.twitter.link}}) on Twitter and by [forking the project on GitHub][GitHub].
 
+{% include share.html %}
 ___
 
 # Related Articles

@@ -174,8 +174,9 @@ searchModel.searchFailProperty().addListener((o, n, v) ->
 
 With JavaFX you can easily add attractive and useful elements such as the search bar described here to your program.  I’m sure you’ll find as I have that FontAwesomeFX and ControlsFX are two great libraries that you can use to add some flair to your user interface.
 
-Finally, VocabHunter is Open Source and all of the code is available in [GitHub].  I hope that you find it useful and I’d welcome your feedback and code contributions!
+Finally, VocabHunter is Open Source so please do [fork the project on GitHub][GitHub] and experiment with it.  I hope that you find it useful and I’d welcome your feedback and code contributions!
 
+{% include share.html %}
 ___
 
 # Related Articles

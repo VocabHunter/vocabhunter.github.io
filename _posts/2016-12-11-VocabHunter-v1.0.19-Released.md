@@ -30,6 +30,7 @@ VocabHunter v1.0.19 is now available.  Get your copy from the [download](/downlo
 
 I published the article [Dependency Injection in JavaFX][DependencyInjection] during my work on this latest release.  If you’re building a JavaFX application you will find that Dependency Injections brings lots of benefits in terms of writing loosely coupled, testable code.  I hope you find my guide useful!
 
+{% include share.html %}
 ___
 
 # Related Articles

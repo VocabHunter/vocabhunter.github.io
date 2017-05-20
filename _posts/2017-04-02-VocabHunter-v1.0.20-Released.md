@@ -33,6 +33,7 @@ VocabHunter v1.0.20 is now available.  Get your copy from the [download](/downlo
 
 While working on this release I published the article [Building a JavaFX Search Bar].  This post describes how a search bar was created in JavaFX and how ControlsFX and FontAwesomeFX are used in this attractive and useful new user interface component.
 
+{% include share.html %}
 ___
 
 # Related Articles

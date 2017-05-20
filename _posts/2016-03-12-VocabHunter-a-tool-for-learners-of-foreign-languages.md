@@ -11,6 +11,7 @@ I wrote an article about VocabHunter over at the King Tech Blog: [VocabHunter â€
 
 The article talks about some of the technology behind VocabHunter, highlighting Java 8 and the JavaFX user interface.
 
+{% include share.html %}
 ___
 
 # Related Articles

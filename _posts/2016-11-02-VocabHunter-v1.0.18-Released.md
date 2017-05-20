@@ -29,6 +29,7 @@ VocabHunter v1.0.18 is now available.  Get your copy from the [download](/downlo
 
 While working on this release, I published this article on the King Tech Blog: [How JavaFX was used to build a desktop application][KingTechBlog2].  The article looks at some of the features of JavaFX used in the VocabHunter user interface and includes examples and links to the relevant code on GitHub.
 
+{% include share.html %}
 ___
 
 # Related Articles
