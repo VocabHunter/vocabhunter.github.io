@@ -1,4 +1,4 @@
-<ul class="share-buttons">{% assign share_title = page.title | uri_escape %}{% assign share_link = page.url | absolute_url | cgi_escape %}
+<ul class="share-buttons {{ include.extrastyle }}">{% assign share_title = page.title | uri_escape %}{% assign share_link = page.url | absolute_url | cgi_escape %}
     <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ share_link }}&t={{ share_title }}" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="/assets/Facebook.svg"></a></li>
     <li><a href="https://twitter.com/intent/tweet?source={{ share_link }}&text={{ share_title }}:%20{{ share_link }}&via=vocabhunterapp" target="_blank" title="Tweet"><img alt="Tweet" src="/assets/Twitter.svg"></a></li>
     <li><a href="https://plus.google.com/share?url={{ share_link }}" target="_blank" title="Share on Google+"><img alt="Share on Google+" src="/assets/Google+.svg"></a></li>
