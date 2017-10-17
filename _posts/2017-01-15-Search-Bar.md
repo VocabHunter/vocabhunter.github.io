@@ -180,6 +180,7 @@ Finally, VocabHunter is Open Source so please do [fork the project on GitHub][Gi
 ___
 
 # Related Articles
+* [Migrating to JUnit 5]
 * [Read (Almost) Any Document in Java]
 * [How JavaFX was used to build a desktop application][KingTechBlog2] (King Tech Blog)
 * [User Interface Testing with TestFX][TestFXBlog]
@@ -194,6 +195,7 @@ ___
 [KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
 [KingTechBlog2]:https://techblog.king.com/javafx-used-build-desktop-application/
 [Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
+[Migrating to JUnit 5]:/2017/10/17/migrating-to-junit-5.html
 
 [FontAwesomeFX]:https://bitbucket.org/Jerady/fontawesomefx
 [FontAwesomeFX Glyphs Browser]:https://github.com/Jerady/fontawesomefx-glyphsbrowser

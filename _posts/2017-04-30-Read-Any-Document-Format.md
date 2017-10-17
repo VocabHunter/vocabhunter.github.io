@@ -55,6 +55,7 @@ ___
 
 # Related Articles
 * [How JavaFX was used to build a desktop application][KingTechBlog2] (King Tech Blog)
+* [Migrating to JUnit 5]
 * [Building a JavaFX Search Bar]
 * [Dependency Injection in JavaFX]
 * [User Interface Testing with TestFX]
@@ -66,6 +67,7 @@ ___
 [Dependency Injection in JavaFX]:/2016/11/13/JavaFX-Dependency-Injection.html
 [User Interface Testing with TestFX]:/2016/07/27/TestFX.html
 [Building a JavaFX Search Bar]:/2017/01/15/Search-Bar.html
+[Migrating to JUnit 5]:/2017/10/17/migrating-to-junit-5.html
 
 [KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
 [KingTechBlog2]:https://techblog.king.com/javafx-used-build-desktop-application/
