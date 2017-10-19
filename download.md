@@ -14,6 +14,8 @@ VocabHunter is available for Mac, Windows and Linux.
 
 You will need Java 8 installed and configured on your system.  You can find it on the [Java Website](https://java.com/download/).  Make sure you've got Java 8: VocabHunter won't run on earlier versions of Java.
 
+_NB: For now you will need Java 8.  A Java 9 compatible version of VocabHunter is coming soon.  Watch this space!_
+
 # Apple Mac
 
 Download the latest release here: [VocabHunter-{{site.release_version}}.dmg](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.dmg)
