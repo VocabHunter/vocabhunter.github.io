@@ -16,11 +16,13 @@ The system is Open Source Software, published under the [Apache Licence, Version
 
 # Technical Articles
 
-* [VocabHunter – A tool for learners of foreign languages][KingTechBlog1] (King Tech Blog) - An introduction to some of the technologies being used in VocabHunter.
-* [How JavaFX was used to build a desktop application][KingTechBlog2] (King Tech Blog) - A detailed look at several important features of JavaFX using VocabHunter as an example.
-* [User Interface Testing with TestFX][TestFXBlog] - A guide to automating user interface tests using TestFX.
-* [Dependency Injection in JavaFX][DependencyInjection] - How to implement Dependency Injection in a JavaFX application.
-* [Building a JavaFX Search Bar] - How the user interface for the search bar works with details of the use of ControlsFX and FontAwesomeFX in giving the bar a distinctive style.
+* [Read (Almost) Any Document in Java] - VocabHunter uses Apache Tika to read documents in a wide variety of formats ranging from Microsoft Word through to PDF.  This article explains how it is done.
+* [How JavaFX was used to build a desktop application] (King Tech Blog) - A detailed look at several important features of JavaFX using VocabHunter as an example.
+* [Migrating to JUnit 5] - How the VocabHunter project was updated to use JUnit 5 for testing.  This article explains the changes that were made, the problems that were encountered and how they were solved.
+* [Dependency Injection in JavaFX] - How to Gluon Ignite and Google Guice are used for the  Dependency Injection in VocabHunter.
+* [User Interface Testing with TestFX] - A guide to automating user interface tests using TestFX.  VocabHunter includes a complete automated GUI test suite and here you can learn how it works.
+* [Building a JavaFX Search Bar] - How the user interface for the VocabHunter search bar works with details of the use of ControlsFX and FontAwesomeFX in giving the bar a distinctive style.
+* [VocabHunter – A tool for learners of foreign languages] (King Tech Blog) - An introduction to some of the technologies being used in VocabHunter.
 
 # Acknowledgements and Thanks
 
@@ -28,11 +30,11 @@ Like all good Open Source projects, VocabHunter builds on the software and work 
 
 * The user interface of VocabHunter is built with the [JavaFX] library that now comes as standard, as part of Java 8.
 * The [Apache Tika] project provides the components that make it possible to read a wide variety of document formats.  You can learn more about this in the article [Read (Almost) Any Document in Java].
-* [TestFX][TestFXProject] is used for the automated GUI test.  The detailed guide [User Interface Testing with TestFX][TestFXBlog] explains how this works.
+* [TestFX][TestFXProject] is used for the automated GUI test.  The detailed guide [User Interface Testing with TestFX] explains how this works.
 * [ControlsFX] is used for some of the GUI components including the status bar.
 * The installable bundles are created using the [javafx-gradle-plugin].
 * VocabHunter uses [FontAwesomeFX] to generate various icons from the [Font Awesome] set.
-* Dependency Injection is handled with [Gluon Ignite] and [Guice].  You can find out all about this in the article [Dependency Injection in JavaFX][DependencyInjection].
+* Dependency Injection is handled with [Gluon Ignite] and [Guice].  You can find out all about this in the article [Dependency Injection in JavaFX].
 
 Finally, some acknowledgements for this website:
 
@@ -44,13 +46,14 @@ Finally, some acknowledgements for this website:
 [Apache Licence, Version 2.0]:http://www.apache.org/licenses/LICENSE-2.0
 [GitHub]:https://github.com/VocabHunter/VocabHunter
 
-[TestFXBlog]:/2016/07/27/TestFX.html
-[DependencyInjection]:/2016/11/13/JavaFX-Dependency-Injection.html
+[Dependency Injection in JavaFX]:/2016/11/13/JavaFX-Dependency-Injection.html
+[User Interface Testing with TestFX]:/2016/07/27/TestFX.html
 [Building a JavaFX Search Bar]:/2017/01/15/Search-Bar.html
 [Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
+[Migrating to JUnit 5]:/2017/10/17/migrating-to-junit-5.html
 
-[KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
-[KingTechBlog2]:https://techblog.king.com/javafx-used-build-desktop-application/
+[VocabHunter – A tool for learners of foreign languages]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
+[How JavaFX was used to build a desktop application]:https://techblog.king.com/javafx-used-build-desktop-application/
 
 [JavaFX]:http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html
 [Apache Tika]:https://tika.apache.org/
