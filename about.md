@@ -35,6 +35,7 @@ Like all good Open Source projects, VocabHunter builds on the software and work 
 * The installable bundles are created using the [javafx-gradle-plugin].
 * VocabHunter uses [FontAwesomeFX] to generate various icons from the [Font Awesome] set.
 * Dependency Injection is handled with [Gluon Ignite] and [Guice].  You can find out all about this in the article [Dependency Injection in JavaFX].
+* [JUnit] is used as the principle testing framework.  [Migrating to JUnit 5] explains how the VocabHunter project was migrated to the latest verson of JUnit.
 
 Finally, some acknowledgements for this website:
 
@@ -64,6 +65,7 @@ Finally, some acknowledgements for this website:
 [FontAwesomeFX]:https://bitbucket.org/Jerady/fontawesomefx
 [Gluon Ignite]:http://gluonhq.com/labs/ignite/
 [Guice]:https://github.com/google/guice
+[JUnit]:http://junit.org/
 
 [Simple Sharing Buttons Generator]:https://simplesharingbuttons.com/
 [Social Flat Rounded Rects]:https://www.iconfinder.com/iconsets/social-flat-rounded-rects
