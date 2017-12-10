@@ -45,6 +45,10 @@ You can stop at any time if you feel that you have reached a point where you hav
 
 Finally, do make sure that you regularly save your session so that you don't lose any of your work.
 
+### Adding Notes
+
+When you come across an interesting word you can add a note to it.  You could use this, for example, to add an explanation, a definition or something that will help you to learn the word.  Click on the speech bubble icon in the bottom right of the word pane or press "n" and you can type in your note.  As ever, make sure that you save your session and when you do, any notes you have added to words will also be saved.
+
 ## Viewing the Results
 
 ### Viewing the New Vocab
