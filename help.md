@@ -22,7 +22,7 @@ This page guides you through the process of using VocabHunter.
 ## Installing and Running VocabHunter
 
 To get started, install VocabHunter by following the instructions on the [download](/download) page.  After starting up the program you will see the following:
-![Screenshot of VocabHunter initial window](/assets/VocabHunter-initial-window.png){: .center-image }
+![Screenshot of VocabHunter initial window](/assets/VocabHunter-initial-window-2.png){: .center-image }
 
 ## A VocabHunter Session
 
