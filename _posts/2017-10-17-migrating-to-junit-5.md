@@ -21,7 +21,7 @@ The focus of this article is on the problems encountered in making the change to
 
 I undertook the switch from JUnit 4 to JUnit 5 on the [VocabHunter] Open Source project.  VocabHunter is a free program to help students of foreign languages to learn new vocabulary.  You can see it in action here:
 
-![Screenshot of VocabHunter in use](/assets/VocabHunter-in-use.png){: .center-image }
+![Screenshot of VocabHunter in use](/assets/VocabHunter-in-use-2.png){: .center-image }
 
 VocabHunter is written in Java and is built using Gradle.  A large part of this article deals with what needed to change in the Gradle build to get everything working correctly for JUnit 5.  I encourage you to fork the [VocabHunter project on GitHub][GitHub] and play around with the code.
 

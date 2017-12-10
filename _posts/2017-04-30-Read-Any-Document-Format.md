@@ -21,7 +21,7 @@ Have you ever wanted to read a Microsoft Word document from your Java program?  
 
 [VocabHunter] is an Open Source project that uses Apache Tika to read document files.  It is a Java desktop application designed to help learners of foreign languages.  The central idea is to enable someone to identify the most important vocabulary to study in a book before they start reading the book.  A user might, for example, make up flashcards for the significant new vocabulary in a book with the help of the information provided by VocabHunter.  Of course, different users will have books in different formats and this is where Apache Tika comes in.  Thanks to Apache Tika, VocabHunter is able to offer the ability to read documents of many different types seamlessly to the user.  You can see the system in action here:
 
-![Screenshot of VocabHunter in use](/assets/VocabHunter-in-use.png){: .center-image }
+![Screenshot of VocabHunter in use](/assets/VocabHunter-in-use-2.png){: .center-image }
 
 All of the source code for VocabHunter is available on [GitHub].  In the following section I show how the Apache Tika API is used in VocabHunter.
 
