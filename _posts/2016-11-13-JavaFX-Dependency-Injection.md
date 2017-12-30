@@ -98,7 +98,8 @@ public <T> T loadNode(final FXMLLoader loader) {
 
         return loader.load();
     } catch (final IOException e) {
-        throw new VocabHunterException(String.format("Unable to load FXML '%s'", name), e);
+        throw new VocabHunterException(
+            String.format("Unable to load FXML '%s'", name), e);
     }
 }
 ```
