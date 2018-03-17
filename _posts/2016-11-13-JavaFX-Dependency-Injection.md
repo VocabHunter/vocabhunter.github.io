@@ -246,7 +246,7 @@ Dependency Injection makes it easier to write unit tests as components can be te
 
 [TestFX] is a framework for automating JavaFX GUI tests.  If you’d like to know more about this, you might be interested in the guide I wrote: [User Interface Testing with TestFX][TestFXBlog].  The article was written before I made the change in VocabHunter from PicoContainer to Ignite and Guice but the idea remains the same.  To get a flavour of what the automated GUI test looks like in action, take a look at the video I made to go with the article:
 
-[![Walkthrough Video](/assets/TestFX-Video.png)](https://youtu.be/Oofc952TG9I "User Interface Testing with TestFX"){:target="_blank"}
+[![Walkthrough Video](/assets/TestFX-Video-2.png)](https://youtu.be/tWEZVStYjpM "User Interface Testing with TestFX"){:target="_blank"}
 
 # Alternative Approaches
 
