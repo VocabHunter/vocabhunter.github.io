@@ -10,7 +10,7 @@ twitter:
   username: vocabhunterapp
   link: https://twitter.com/vocabhunterapp
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
