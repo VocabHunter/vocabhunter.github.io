@@ -10,6 +10,8 @@ image: /assets/VocabHunter-Download.png
 
 VocabHunter is available for Mac, Windows and Linux.
 
+_(This is the download page for VocabHunter.  If you're looking for Santulator, you can [download Santulator here](https://santulator.github.io/download/).)_
+
 # Install Java 8
 
 You will need **Java 8** installed and configured on your system.  You can find it on the [Java Website](https://java.com/download/).  Make sure you've got Java 8: VocabHunter won't run on other versions of Java.
