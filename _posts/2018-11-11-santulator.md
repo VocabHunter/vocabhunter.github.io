@@ -15,6 +15,8 @@ I’m very pleased to announce the release of [Santulator], my new Open Source p
 [![Santulator draw title](/assets/Santulator-Draw-Wizard-1.gif){: .center-image }][Santulator Download]
 Santulator is available for free and is Open Source software.  All of the source code can be found on [GitHub].  Santulator is written in Java using JDK 11 and has a JavaFX ([OpenJFX 11][OpenJFX]) user interface.  The software is packaged using the [Java Packager] which in turn uses JLink to build a cut-down JDK with just the modules required to run Santulator.  This means you can use the self-contained installer for Mac, Linux or Windows and have everything you need to run the program without the need to install anything else.  Santulator uses the version of JDK 11 provided by [AdoptOpenJDK].
 
+[![Download Santulator](/assets/Santulator-Download-Link.png){: .center-image }][Santulator Download]
+
 {% include share.html %}
 ___
 
