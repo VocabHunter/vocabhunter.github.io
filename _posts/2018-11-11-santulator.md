@@ -38,5 +38,5 @@ ___
 [Santulator Download]:https://santulator.github.io/download/
 
 [OpenJFX]:https://openjfx.io/
-[Java Packager]:http://mail.openjdk.java.net/pipermail/openjfx-dev/2018-September/022500.html
+[Java Packager]:https://mail.openjdk.java.net/pipermail/openjfx-dev/2018-September/022500.html
 [AdoptOpenJDK]:https://adoptopenjdk.net/
