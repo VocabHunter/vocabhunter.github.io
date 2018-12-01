@@ -40,6 +40,7 @@ ___
 * [How JavaFX was used to build a desktop application][KingTechBlog2] (King Tech Blog)
 * [VocabHunter – A tool for learners of foreign languages][KingTechBlog1] (King Tech Blog)
 * [Migrating to JUnit 5]
+* [Using the Java Packager with JDK 11] (Medium)
 
 [VocabHunter website]:/
 [DependencyInjection]:/2016/11/13/JavaFX-Dependency-Injection.html
@@ -47,6 +48,7 @@ ___
 [Building a JavaFX Search Bar]:/2017/01/15/Search-Bar.html
 [Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
 [Migrating to JUnit 5]:/2017/10/17/migrating-to-junit-5.html
+[Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
 
 [KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
 [KingTechBlog2]:https://techblog.king.com/javafx-used-build-desktop-application/

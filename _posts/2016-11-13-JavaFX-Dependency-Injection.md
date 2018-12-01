@@ -267,6 +267,7 @@ ___
 
 # Related Articles
 * [Read (Almost) Any Document in Java]
+* [Using the Java Packager with JDK 11] (Medium)
 * [Building a JavaFX Search Bar]
 * [Migrating to JUnit 5]
 * [User Interface Testing with TestFX][TestFXBlog]
@@ -280,6 +281,7 @@ ___
 [Building a JavaFX Search Bar]:/2017/01/15/Search-Bar.html
 [Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
 [Migrating to JUnit 5]:/2017/10/17/migrating-to-junit-5.html
+[Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
 
 [KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
 [KingTechBlog2]:https://techblog.king.com/javafx-used-build-desktop-application/
