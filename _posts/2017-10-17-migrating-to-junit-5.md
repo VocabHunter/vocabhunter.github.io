@@ -272,7 +272,7 @@ ___
 [Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
 
 [KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
-[KingTechBlog2]:https://techblog.king.com/javafx-used-build-desktop-application/
+[KingTechBlog2]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
 
 [JUnit5]:http://junit.org/junit5/
 [BaeldungJUnit5]:http://www.baeldung.com/junit-5

@@ -54,7 +54,7 @@ Finally, some acknowledgements for this website:
 [Migrating to JUnit 5]:/2017/10/17/migrating-to-junit-5.html
 
 [VocabHunter – A tool for learners of foreign languages]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
-[How JavaFX was used to build a desktop application]:https://techblog.king.com/javafx-used-build-desktop-application/
+[How JavaFX was used to build a desktop application]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
 
 [JavaFX]:http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html
 [Apache Tika]:https://tika.apache.org/

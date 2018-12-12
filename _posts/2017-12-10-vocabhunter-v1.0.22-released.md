@@ -58,7 +58,7 @@ ___
 [GitHub]:https://github.com/VocabHunter/VocabHunter
 
 [KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
-[KingTechBlog2]:https://techblog.king.com/javafx-used-build-desktop-application/
+[KingTechBlog2]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
 
 [VocabHunter SonarCloud Dashboard]:https://sonarcloud.io/dashboard?id=io.github.vocabhunter%3Avocabhunter
 
