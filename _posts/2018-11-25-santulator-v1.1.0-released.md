@@ -29,7 +29,7 @@ ___
 * [Building a JavaFX Search Bar]
 * [Read (Almost) Any Document in Java]
 
-[How JavaFX was used to build a desktop application]:https://medium.com/king-tech-blog/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
+[How JavaFX was used to build a desktop application]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
 [User Interface Testing with TestFX]:/2016/07/27/TestFX.html
 [Dependency Injection in JavaFX]:/2016/11/13/JavaFX-Dependency-Injection.html
 [Building a JavaFX Search Bar]:/2017/01/15/Search-Bar.html
