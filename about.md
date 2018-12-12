@@ -53,7 +53,7 @@ Finally, some acknowledgements for this website:
 [Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
 [Migrating to JUnit 5]:/2017/10/17/migrating-to-junit-5.html
 
-[VocabHunter – A tool for learners of foreign languages]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
+[VocabHunter – A tool for learners of foreign languages]:https://medium.com/techking/vocabhunter-a-tool-for-learners-of-foreign-languages-55c467a6250c
 [How JavaFX was used to build a desktop application]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
 
 [JavaFX]:http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html

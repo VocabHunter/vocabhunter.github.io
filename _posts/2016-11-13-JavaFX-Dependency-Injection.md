@@ -283,7 +283,7 @@ ___
 [Migrating to JUnit 5]:/2017/10/17/migrating-to-junit-5.html
 [Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
 
-[KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
+[KingTechBlog1]:https://medium.com/techking/vocabhunter-a-tool-for-learners-of-foreign-languages-55c467a6250c
 [KingTechBlog2]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
 
 [Gluon Ignite]:http://gluonhq.com/labs/ignite/

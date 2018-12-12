@@ -193,7 +193,7 @@ ___
 [FixedVersion]:https://github.com/VocabHunter/VocabHunter/tree/1.0.19
 [DependencyInjection]:/2016/11/13/JavaFX-Dependency-Injection.html
 [TestFXBlog]:/2016/07/27/TestFX.html
-[KingTechBlog1]:https://techblog.king.com/vocabhunter-a-tool-for-learners-of-foreign-languages/
+[KingTechBlog1]:https://medium.com/techking/vocabhunter-a-tool-for-learners-of-foreign-languages-55c467a6250c
 [KingTechBlog2]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
 [Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
 [Migrating to JUnit 5]:/2017/10/17/migrating-to-junit-5.html
