@@ -260,6 +260,7 @@ ___
 * [Building a JavaFX Search Bar]
 * [Dependency Injection in JavaFX]
 * [VocabHunter – A tool for learners of foreign languages][KingTechBlog1] (King Tech Blog)
+* [Open Source & Secret Santa with Santulator] (King Tech Blog)
 
 [VocabHunter]:/
 [GitHub]:https://github.com/VocabHunter/VocabHunter
@@ -273,6 +274,7 @@ ___
 
 [KingTechBlog1]:https://medium.com/techking/vocabhunter-a-tool-for-learners-of-foreign-languages-55c467a6250c
 [KingTechBlog2]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
+[Open Source & Secret Santa with Santulator]:https://medium.com/techking/open-source-secret-santa-with-santulator-9101972359fc
 
 [JUnit5]:http://junit.org/junit5/
 [BaeldungJUnit5]:http://www.baeldung.com/junit-5

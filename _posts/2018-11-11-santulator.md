@@ -21,6 +21,7 @@ Santulator is available for free and is Open Source software.  All of the source
 ___
 
 # Related Articles
+* [Open Source & Secret Santa with Santulator] (King Tech Blog)
 * [Using the Java Packager with JDK 11] (Medium)
 * [How JavaFX was used to build a desktop application] (King Tech Blog)
 * [User Interface Testing with TestFX]
@@ -34,6 +35,7 @@ ___
 [Building a JavaFX Search Bar]:/2017/01/15/Search-Bar.html
 [Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
 [Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
+[Open Source & Secret Santa with Santulator]:https://medium.com/techking/open-source-secret-santa-with-santulator-9101972359fc
 
 [GitHub]:https://github.com/Santulator/Santulator
 [Santulator]:https://santulator.github.io/

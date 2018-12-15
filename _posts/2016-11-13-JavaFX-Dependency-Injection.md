@@ -270,6 +270,7 @@ ___
 * [Using the Java Packager with JDK 11] (Medium)
 * [Building a JavaFX Search Bar]
 * [Migrating to JUnit 5]
+* [Open Source & Secret Santa with Santulator] (King Tech Blog)
 * [User Interface Testing with TestFX][TestFXBlog]
 * [How JavaFX was used to build a desktop application][KingTechBlog2] (King Tech Blog)
 * [VocabHunter – A tool for learners of foreign languages][KingTechBlog1] (King Tech Blog)
@@ -285,6 +286,7 @@ ___
 
 [KingTechBlog1]:https://medium.com/techking/vocabhunter-a-tool-for-learners-of-foreign-languages-55c467a6250c
 [KingTechBlog2]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
+[Open Source & Secret Santa with Santulator]:https://medium.com/techking/open-source-secret-santa-with-santulator-9101972359fc
 
 [Gluon Ignite]:http://gluonhq.com/labs/ignite/
 [Google Guice]:https://github.com/google/guice

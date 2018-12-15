@@ -187,6 +187,7 @@ ___
 * [User Interface Testing with TestFX][TestFXBlog]
 * [Dependency Injection in JavaFX][DependencyInjection]
 * [VocabHunter – A tool for learners of foreign languages][KingTechBlog1] (King Tech Blog)
+* [Open Source & Secret Santa with Santulator] (King Tech Blog)
 
 [VocabHunter]:/
 [GitHub]:https://github.com/VocabHunter/VocabHunter
@@ -195,6 +196,7 @@ ___
 [TestFXBlog]:/2016/07/27/TestFX.html
 [KingTechBlog1]:https://medium.com/techking/vocabhunter-a-tool-for-learners-of-foreign-languages-55c467a6250c
 [KingTechBlog2]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
+[Open Source & Secret Santa with Santulator]:https://medium.com/techking/open-source-secret-santa-with-santulator-9101972359fc
 [Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
 [Migrating to JUnit 5]:/2017/10/17/migrating-to-junit-5.html
 [Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
