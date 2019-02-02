@@ -9,7 +9,7 @@ The system will analyse a document and give an ordered list of the most frequent
 ![Screenshot of VocabHunter in use](/assets/VocabHunter-in-use-2.png){: .center-image }
 Once the user has selected the vocab that is new to them, they can then view the words in the user interface or export them to a file.  Here you can see the selected vocab being viewed directly in the user interface:
 ![Screenshot of VocabHunter showing selected vocab](/assets/VocabHunter-selected-vocab-2.png){: .center-image }
-The program will run on any operating system that supports Java 8 including Microsoft Windows, Apple OS X and Linux.  The system itself is a self-contained Java desktop application.  There is no server component to VocabHunter.  For download and installation instructions, see the [download](/download) page.
+The program runs on Microsoft Windows, Apple OS X and Linux.  The system itself is a self-contained Java desktop application.  There is no server component to VocabHunter.  For download and installation instructions, see the [download](/download) page.
 
 VocabHunter is available free of charge and is Open Source Software, published under the [Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
