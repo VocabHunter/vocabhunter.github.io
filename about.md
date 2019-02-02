@@ -28,14 +28,14 @@ The system is Open Source Software, published under the [Apache Licence, Version
 
 Like all good Open Source projects, VocabHunter builds on the software and work of others.  This includes but is not limited to:
 
-* The user interface of VocabHunter is built with the [JavaFX] library that now comes as standard, as part of Java 8.
-* The [Apache Tika] project provides the components that make it possible to read a wide variety of document formats.  You can learn more about this in the article [Read (Almost) Any Document in Java].
+* The user interface of VocabHunter is built with the [JavaFX], now developed under the Open Source OpenJFX project.
 * [TestFX][TestFXProject] is used for the automated GUI test.  The detailed guide [User Interface Testing with TestFX] explains how this works.
 * [ControlsFX] is used for some of the GUI components including the status bar.
-* The installable bundles are created using the [javafx-gradle-plugin].
+* The [Apache Tika] project provides the components that make it possible to read a wide variety of document formats.  You can learn more about this in the article [Read (Almost) Any Document in Java].
 * VocabHunter uses [FontAwesomeFX] to generate various icons from the [Font Awesome] set.
 * Dependency Injection is handled with [Gluon Ignite] and [Guice].  You can find out all about this in the article [Dependency Injection in JavaFX].
 * [JUnit] is used as the principle testing framework.  [Migrating to JUnit 5] explains how the VocabHunter project was migrated to the latest verson of JUnit.
+* There is a separate installer for Mac, Linux and Windows, each one tailored to the operating system in question.  These installable bundles are self-contained so that the user doesn't need to have to worry about first installing Java or any other special setup.  The article [Using the Java Packager with JDK 11] explains how this was achieved.
 
 Finally, some acknowledgements for this website:
 
@@ -55,12 +55,12 @@ Finally, some acknowledgements for this website:
 
 [VocabHunter – A tool for learners of foreign languages]:https://medium.com/techking/vocabhunter-a-tool-for-learners-of-foreign-languages-55c467a6250c
 [How JavaFX was used to build a desktop application]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
+[Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
 
-[JavaFX]:http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html
+[JavaFX]:https://openjfx.io/
 [Apache Tika]:https://tika.apache.org/
 [TestFXProject]:https://github.com/TestFX/TestFX
 [ControlsFX]:http://fxexperience.com/controlsfx/
-[javafx-gradle-plugin]:https://github.com/FibreFoX/javafx-gradle-plugin
 [Font Awesome]:https://fortawesome.github.io/Font-Awesome/
 [FontAwesomeFX]:https://bitbucket.org/Jerady/fontawesomefx
 [Gluon Ignite]:http://gluonhq.com/labs/ignite/
