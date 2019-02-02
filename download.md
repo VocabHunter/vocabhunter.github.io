@@ -12,32 +12,21 @@ VocabHunter is available for Mac, Windows and Linux.
 
 _(This is the download page for VocabHunter.  If you're looking for Santulator, you can [download Santulator here](https://santulator.github.io/download/).)_
 
-# Install Java 8
-
-You will need **Java 8** installed and configured on your system.  You can find it on the [Java Website](https://java.com/download/).  Make sure you've got Java 8: VocabHunter won't run on other versions of Java.
-
-_NB: For now you will need Java 8.  A Java 10 compatible version of VocabHunter is coming soon.  Watch this space!_
-
 # Apple Mac
 
-Download the latest release here: [VocabHunter-{{site.release_version}}.dmg](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.dmg)
+Download the latest release of VocabHunter for the Apple Mac here: [VocabHunter-{{site.release_version}}.pkg](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.pkg)
 
-Double click the file and in the window that opens, drag the ``VocabHunter.app`` file into the ``Applications`` folder.  You should be able to launch it like any other Mac application.
+Double click the file and you will be guided through installing VocabHunter on your Mac.  Once the installation is complete you will  be able to run `VocabHunter.app` from your `Applications` folder, just like any other Mac application.
 
 # Microsoft Windows
 
-The latest release of VocabHunter can be downloaded as a Zip file here: [VocabHunter-{{site.release_version}}.zip](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.zip).
+On Microsoft Windows, first download the VocabHunter installer, [VocabHunter-{{site.release_version}}.exe](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.exe).
 
-First extract the contents of the Zip file into a directory.  Then run the ``VocabHunter.bat`` file found in the ``bin`` directory.  Depending on your Windows version and settings you may see an error preventing you from running the program.  If you do, click the 'More Info' hyperlink and then choose the 'Run Anyway' option.
-
-
-Alternatively, you can try the experimental new Windows installer: [VocabHunter-{{site.release_version}}.exe](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.exe).
-
-Double click on the file and you will be taken through the process of installing VocabHunter on your PC.
+When you run this executable you will be taken through a wizard to help you to install VocabHunter on your PC.  At the end of the process you will be given the option to start up VocabHunter.
 
 # Linux
 
-The latest release of VocabHunter can be downloaded as a Deb file here: [VocabHunter-{{site.release_version}}.deb](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.deb).
+The latest release of VocabHunter can be downloaded as a Deb file here: [vocabhunter-{{site.release_version}}.deb](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/vocabhunter-{{site.release_version}}.deb).
 
 You can install the package as follows:
 
@@ -46,21 +35,6 @@ $ sudo dpkg -i vocabhunter-{{site.release_version}}.deb
 ~~~
 
 VocabHunter will now run like any other Linux desktop application.
-
-# Installing from a Zip File (Any Operating System)
-
-The latest release of VocabHunter can be downloaded as a Zip file here: [VocabHunter-{{site.release_version}}.zip](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.zip).
-
-First extract the contents of the Zip file into a directory.  Then run the ``VocabHunter`` file  (``VocabHunter.bat`` on Windows) found in the ``bin`` directory.
-
-# Using the OpenJDK
-
-VocabHunter works well with the OpenJDK 8 as well as the official Oracle Java.  If you choose to use the OpenJDK instead of the Oracle Java, ensure that you also have JavaFX installed.  For example, on Ubuntu 16.04 you can install the OpenJDK 8 and JavaFX as follows:
-
-~~~
-$ sudo apt-get install openjdk-8-jre
-$ sudo apt-get install openjfx
-~~~
 
 # What to Do Now
 
