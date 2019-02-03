@@ -2,12 +2,12 @@
 layout: post
 title:  "Using the Java Packager with JDK 11"
 date:   2018-12-01
-image: /assets/java-packager-jdk-11.png
+image: /assets/java-packager-jdk-11-2.png
 author: Adam
 description: With the Java Packager and JDK 11 you can create an installable bundle for Mac, Windows and Linux
 excerpt: This article shows how you can package your JDK 11 application into a bundle that can be installed on Mac, Windows or Linux.  A worked example is given based on the Open Source Santulator project.
 ---
-[![Using the Java Packager with JDK 11](/assets/java-packager-jdk-11.png){: .center-image }][Using the Java Packager with JDK 11]
+[![Using the Java Packager with JDK 11](/assets/java-packager-jdk-11-2.png){: .center-image }][Using the Java Packager with JDK 11]
 
 I've just published my article [Using the Java Packager with JDK 11] on Medium.  You can read all about how to package a JDK 11 application into a bundle that can be installed on Mac, Windows or Linux.  A worked example is given based on the Open Source [Santulator] project.
 
