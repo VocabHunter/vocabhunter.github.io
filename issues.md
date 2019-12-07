@@ -22,7 +22,7 @@ Please include as much relevant information as you can when you report the probl
 * A screenshot illustrating the problem if the issue is a visual one.
 * Are you running a Mac, Linux or Windows?
 * Details of the text that you are analysing if you think that this is relevant.
-* The ``system.log`` file.  See the section below for details of how to obtain this.
+* The `system.log` file.  See the section below for details of how to obtain this.
 
 Please take care not to upload any copyrighted material.
 
@@ -30,11 +30,11 @@ Please take care not to upload any copyrighted material.
 
 The `system.log` file contains information that can help to find out what VocabHunter was doing when a problem occurred.  The location of this file depends on the system you're using:
 
-| Operating System   | Directory                                 |
-|--------------------|-------------------------------------------|
-| Apple OSX:         | ``~/Library/VocabHunter/logs/system.log`` |
-| Microsoft Windows: | ``%APPDATA%\VocabHunter\logs\system.log`` |
-| Linux:             | ``~/.VocabHunter/logs/system.log``        |
+| Operating System   | Directory                               |
+|--------------------|-----------------------------------------|
+| Apple OSX:         | `~/Library/VocabHunter/logs/system.log` |
+| Microsoft Windows: | `%APPDATA%\VocabHunter\logs\system.log` |
+| Linux:             | `~/.VocabHunter/logs/system.log`        |
 
 # Fixing Problems
 
