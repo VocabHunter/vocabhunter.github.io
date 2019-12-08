@@ -55,7 +55,7 @@ ___
 [KingTechBlog2]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
 [Open Source & Secret Santa with Santulator]:https://medium.com/techking/open-source-secret-santa-with-santulator-9101972359fc
 
-[ControlsFX]:http://fxexperience.com/controlsfx/
+[ControlsFX]:https://github.com/controlsfx/controlsfx
 [FontAwesomeFX]:https://bitbucket.org/Jerady/fontawesomefx
 [Apache Tika]:https://tika.apache.org/
 [Robin Schneider]:https://github.com/ypid

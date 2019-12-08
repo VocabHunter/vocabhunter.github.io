@@ -60,7 +60,7 @@ Finally, some acknowledgements for this website:
 [JavaFX]:https://openjfx.io/
 [Apache Tika]:https://tika.apache.org/
 [TestFXProject]:https://github.com/TestFX/TestFX
-[ControlsFX]:http://fxexperience.com/controlsfx/
+[ControlsFX]:https://github.com/controlsfx/controlsfx
 [Font Awesome]:https://fortawesome.github.io/Font-Awesome/
 [FontAwesomeFX]:https://bitbucket.org/Jerady/fontawesomefx
 [Gluon Ignite]:http://gluonhq.com/labs/ignite/

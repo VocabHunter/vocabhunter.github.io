@@ -203,7 +203,7 @@ ___
 
 [FontAwesomeFX]:https://bitbucket.org/Jerady/fontawesomefx
 [FontAwesomeFX Glyphs Browser]:https://github.com/Jerady/fontawesomefx-glyphsbrowser
-[ControlsFX]:http://fxexperience.com/controlsfx/
+[ControlsFX]:https://github.com/controlsfx/controlsfx
 [FontAwesomeIcons]:http://fontawesome.io/icons/
 
 [session.fxml]:https://github.com/VocabHunter/VocabHunter/blob/1.0.19/gui/src/main/resources/session.fxml

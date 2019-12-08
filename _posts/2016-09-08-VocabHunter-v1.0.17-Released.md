@@ -16,7 +16,7 @@ VocabHunter v1.0.17 is now available.  Get your copy from the [download](/downlo
 
 ![Status Bar Mini Graph](/assets/VocabHunter-StatusBar-MiniGraph.png){: .center-image }
 
-* On the subject of the status bar, this is a component from the [ControlsFX](http://fxexperience.com/controlsfx/) library which has been updated in this release to use v8.40.12.
+* On the subject of the status bar, this is a component from the [ControlsFX](https://github.com/controlsfx/controlsfx) library which has been updated in this release to use v8.40.12.
 * VocabHunter now saves the window size and position when you close the application.  The next time you start up VocabHunter, the window will open where you left it previously.
 * Some users of previous versions of VocabHunter on Windows had problems when upgrading to v1.0.16.  This was caused by a change in the way that the Jackson library handles Windows paths.  This has been fixed in this release.
 * The installable bundle creation is now handled using the [javafx-gradle-plugin](https://github.com/FibreFoX/javafx-gradle-plugin).  This simplifies the build and removes the need to call out to a separate Ant script.  The Gradle plugin also includes workarounds to several known problems with the bundlers.
