@@ -143,7 +143,7 @@ subprojects {
 
 # JVM Arguments
 
-The VocabHunter test suite includes an automated GUI test.  You can find more details in the article [User Interface Testing with TestFX].  If you run the test from your IDE you can watch as the robot clicks away on each of the buttons and menus as the test progresses.  However when launched from the Gradle script the GUI test will run by default in a “headless” mode so as not to bother the user and to make it easy to run the build in a continuous integration environment.  This behaviour is controlled by a Java system property that is read in the [`GuiTest`](https://github.com/VocabHunter/VocabHunter/blob/a9c396e5796da72a6aeb2ce691bf034e4f8e06a2/gui/src/test/java/io/github/vocabhunter/gui/main/GuiTest.java#L80-L90) class:
+The VocabHunter test suite includes an automated GUI test.  You can find more details in the article [User Interface Testing with TestFX].  If you run the test from your IDE you can watch as the robot clicks away on each of the buttons and menus as the test progresses.  However when launched from the Gradle script the GUI test will run by default in a "headless" mode so as not to bother the user and to make it easy to run the build in a continuous integration environment.  This behaviour is controlled by a Java system property that is read in the [`GuiTest`](https://github.com/VocabHunter/VocabHunter/blob/a9c396e5796da72a6aeb2ce691bf034e4f8e06a2/gui/src/test/java/io/github/vocabhunter/gui/main/GuiTest.java#L80-L90) class:
 
 ```java
 @BeforeAll
@@ -203,7 +203,7 @@ junitPlatform {
 
 # PMD Problems
 
-The build process for VocabHunter includes static analysis of the source code to check for errors.  If problems are found then the build fails.  This helps to catch problems early on before they become bugs to be found and fixed.  Part of this static analysis is provided by the PMD plugin.  [PMD] makes use of rule sets and one of these, the “migrating” rule set, includes rules to catch problems with the use of annotations in JUnit tests.  These rules are based on the old JUnit 4 annotations and when I made the change to JUnit 5, PMD started to produce false positives.  To fix this I explicitly excluded the problematic rules from the PMD configuration file [ruleset.xml](https://github.com/VocabHunter/VocabHunter/blob/a9c396e5796da72a6aeb2ce691bf034e4f8e06a2/config/pmd/ruleset.xml#L69-L73):
+The build process for VocabHunter includes static analysis of the source code to check for errors.  If problems are found then the build fails.  This helps to catch problems early on before they become bugs to be found and fixed.  Part of this static analysis is provided by the PMD plugin.  [PMD] makes use of rule sets and one of these, the "migrating" rule set, includes rules to catch problems with the use of annotations in JUnit tests.  These rules are based on the old JUnit 4 annotations and when I made the change to JUnit 5, PMD started to produce false positives.  To fix this I explicitly excluded the problematic rules from the PMD configuration file [ruleset.xml](https://github.com/VocabHunter/VocabHunter/blob/a9c396e5796da72a6aeb2ce691bf034e4f8e06a2/config/pmd/ruleset.xml#L69-L73):
 
 ```xml
 <rule ref="rulesets/java/migrating.xml">

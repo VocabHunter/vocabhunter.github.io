@@ -71,7 +71,7 @@ The search bar contains three buttons:
 
 ![VocabHunter Search Bar Buttons](/assets/VocabHunter-Search-Bar-Buttons.png){: .center-image }
 
-You can see the outline of the search bar FXML in the previous section.  Expanding the outline, the first of the buttons (the “x” for closing the search bar) is defined as follows:
+You can see the outline of the search bar FXML in the previous section.  Expanding the outline, the first of the buttons (the "x" for closing the search bar) is defined as follows:
 
 ```xml
 <Button fx:id="buttonCloseSearch" styleClass="buttonSearchClose">
@@ -139,7 +139,7 @@ In this case the FontAwesomeFX name for the magnifying glass icon is `SEARCH`.
 
 # Highlighting Errors
 
-The label on the right-hand side of the search bar shows information about the number of matches or “No matches” in the case where the search does not produce any results.  In addition to the “No matches” message, the search field also changes colour to make it immediately obvious to the user that no results can be found:
+The label on the right-hand side of the search bar shows information about the number of matches or "No matches" in the case where the search does not produce any results.  In addition to the "No matches" message, the search field also changes colour to make it immediately obvious to the user that no results can be found:
 
 ![VocabHunter Search Bar No Matches](/assets/VocabHunter-Search-Bar-No-Matches.png){: .center-image }
 

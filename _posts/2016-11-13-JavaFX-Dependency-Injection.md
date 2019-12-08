@@ -59,7 +59,7 @@ public class AboutHandler {
 }
 ```
 
-When the `show()` method is called, the FXML is loaded using an `FXMLLoader`.  `FXMLLoader` is a standard class that ships as part of JavaFX.  The key “trick” here is to obtain the `FXMLLoader` via Dependency Injection:
+When the `show()` method is called, the FXML is loaded using an `FXMLLoader`.  `FXMLLoader` is a standard class that ships as part of JavaFX.  The key "trick" here is to obtain the `FXMLLoader` via Dependency Injection:
 
 ```java
 private final Provider<FXMLLoader> loaderProvider;
@@ -214,7 +214,7 @@ At first glance it may seem a bit odd to define the modules in a static member f
 * It is the executable for running the VocabHunter GUI.
 * It is the entry point for the automated GUI tests.
 
-In these two cases the modules that are used are slightly different.  For testing purposes some components are replaced.  For example the [`WebPageTool`] mentioned earlier that the ‘About’ dialogue uses when opening a web page is replaced in the test with something that simply records the page that is to be opened so that it can be verified later.  To make this work there is a static method `setModules()` called from the `main()` method of the executable and separately from the test to define the respective sets of modules to be used.  The set of modules passed in `main()` are those for the “real” VocabHunter and those passed in the test are the slightly modified set, used for testing.  By making `setModules()` a static method, the modules can be defined before [`VocabHunterGuiExecutable`] is instantiated either in the "real" system or in the automated GUI tests.
+In these two cases the modules that are used are slightly different.  For testing purposes some components are replaced.  For example the [`WebPageTool`] mentioned earlier that the ‘About’ dialogue uses when opening a web page is replaced in the test with something that simply records the page that is to be opened so that it can be verified later.  To make this work there is a static method `setModules()` called from the `main()` method of the executable and separately from the test to define the respective sets of modules to be used.  The set of modules passed in `main()` are those for the "real" VocabHunter and those passed in the test are the slightly modified set, used for testing.  By making `setModules()` a static method, the modules can be defined before [`VocabHunterGuiExecutable`] is instantiated either in the "real" system or in the automated GUI tests.
 
 # Including the Framework
 
@@ -250,7 +250,7 @@ Dependency Injection makes it easier to write unit tests as components can be te
 
 # Alternative Approaches
 
-As is always the case in software, the approach to Dependency Injection in JavaFX that I describe here is just one of many possible alternatives.  You may well find that an alternative approach works better in your project.  That said, I’m pleased with the results of the project to switch VocabHunter to Ignite and Guice.  I particularly like the way that I can keep the two frameworks “at arm’s length” in the sense that in general the code just refers to JSR-330 annotations and interfaces.  This should make it possible to change to an alternate framework in the future if needs be.
+As is always the case in software, the approach to Dependency Injection in JavaFX that I describe here is just one of many possible alternatives.  You may well find that an alternative approach works better in your project.  That said, I’m pleased with the results of the project to switch VocabHunter to Ignite and Guice.  I particularly like the way that I can keep the two frameworks "at arm’s length" in the sense that in general the code just refers to JSR-330 annotations and interfaces.  This should make it possible to change to an alternate framework in the future if needs be.
 
 Ignite itself offers support not just for Guice but also for [Spring] and [Dagger].  I think it might be interesting in the future to look at Dagger which promises to be fast and lightweight.  Also, Ignite isn’t the only JavaFX-focussed Dependency Injection framework out there.  I haven’t tried it but [afterburner.fx] appears to be a lean framework that takes a slightly different approach and might be worth a look.  Frameworks such as [Griffon] also include Dependency Injection support.
 

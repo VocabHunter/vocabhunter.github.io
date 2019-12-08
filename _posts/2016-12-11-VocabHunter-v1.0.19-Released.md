@@ -17,7 +17,7 @@ VocabHunter v1.0.19 is now available.  Get your copy from the [download](/downlo
 ![VocabHunter Search](/assets/VocabHunter-Search.png){: .center-image }
 
 * [Apache Tika], the library used by VocabHunter to read a wide range of document types from Microsoft Word through to eBook formats, was updated to version 1.14.  This brings with it support for yet more document formats and better handling of existing formats.
-* The menus have been switched around a little to accommodate the new search functionality.  You can see the new “Words” menu here:
+* The menus have been switched around a little to accommodate the new search functionality.  You can see the new "Words" menu here:
 
 ![VocabHunter Words Menu](/assets/VocabHunter-Words-Menu.png){: .center-image }
 
