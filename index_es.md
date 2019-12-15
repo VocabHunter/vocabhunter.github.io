@@ -3,6 +3,8 @@ title: VocabHunter
 permalink: /es/
 layout: page
 image: /assets/VocabHunter-Summary-Card.png
+ref: main
+lang: es
 ---
 VocabHunter es un sistema que ayuda a los estudiantes de lenguas extranjeras. 
 
@@ -23,3 +25,5 @@ VocabHunter está disponible de manera gratuita y es un software de Open Source,
 Para conocer las últimas novedades sobre VocabHunter, incluyendo alertas de nuevas versiones disponibles, puedes seguir la cuenta de VocabHunter en Twitter que es [@{{site.twitter.username}}]({{site.twitter.link}}).
 
 ¡Feliz búsqueda de palabras y buena suerte en tu aprendizaje de un nuevo idioma!
+
+{% include language.html %}

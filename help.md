@@ -3,9 +3,9 @@ layout: page
 title: How to Use VocabHunter
 short_title: Help
 permalink: /help/
-weight : 3
 description: How to use VocabHunter
 image: /assets/VocabHunter-Help.png
+ref: help
 ---
 
 ## Introduction
@@ -136,3 +136,5 @@ To get all the latest news about VocabHunter including announcements of new rele
 If you find a bug, please report it.  You can find details on how to do this on the [How to Report a Bug](/issues) page.
 
 If you can fix the problem yourself, please send a [GitHub Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+
+{% include language.html %}

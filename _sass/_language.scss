@@ -1,0 +1,13 @@
+ul.language-switcher{
+  font-style:italic;
+  font-size: 90%;
+  float: right;
+}
+
+ul.language-switcher li{
+  display: inline;
+}
+
+.en:lang(en), .es:lang(es){
+    font-weight: bold;
+}

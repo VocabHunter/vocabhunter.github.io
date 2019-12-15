@@ -2,6 +2,7 @@
 title: VocabHunter
 layout: page
 image: /assets/VocabHunter-Summary-Card.png
+ref: main
 ---
 VocabHunter is a system to help learners of foreign languages.  Reading is a vital skill if you want to learn a foreign language but students often feel that it would be useful to learn the most important vocab for a book before reading it.  VocabHunter enables them to do this.
 
@@ -16,3 +17,5 @@ VocabHunter is available free of charge and is Open Source Software, published u
 To get all the latest news about VocabHunter including announcements of new releases, follow [@{{site.twitter.username}}]({{site.twitter.link}}) on Twitter.
 
 Happy vocab hunting and good luck with your language study!
+
+{% include language.html %}

@@ -24,3 +24,20 @@ authors:
 
 release_version: 2.1.0
 
+main_pages:
+  - blog
+  - about
+  - help
+  - download
+
+languages:
+  en:
+    name: "English"
+  es:
+    name: "Español"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: "en"

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Cómo Usar VocabHunter
-short_title: Help
+short_title: Ayuda
 permalink: /es/help/
-weight : 3
 description: Cómo Usar VocabHunter
 image: /assets/VocabHunter-Help.png
+ref: help
+lang: es
 ---
 
 ## Introducción
@@ -144,3 +145,5 @@ Para tener las últimas noticias sobre VocabHunter, incluyendo alertas sobre nue
 Si encuentras un error al usar VocabHunter, por favor, infoma sobre ello. Puedes encontrar detalles sobre cómo hacerlo en la página [Como Informar de un Error](/es/issues).
 
 Si puedes corregir el error tu mismo, por favor, envía tu solución a través de un [GitHub Pull Request](https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+
+{% include language.html %}

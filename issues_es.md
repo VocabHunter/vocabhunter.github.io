@@ -4,6 +4,8 @@ layout: page
 permalink: /es/issues/
 description: Cómo informar sobre un error o problema
 image: /assets/VocabHunter-Issue.png
+ref: issues
+lang: es
 ---
 
 Puedes ayudar informando sobre el mismo o incluso solucionando el problema que encuentres.
@@ -39,3 +41,5 @@ El fichero `system.log` contiene información que puede ayudar a saber qué esta
 # Solucionar problemas
 
 VocabHunter es un software de Open Source y por ello recibe gratamente cualquier contribución a nivel de código. Si puedes arreglar un problema, por favor, envía tu solución a través de un [GitHub Pull Request](https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+
+{% include language.html %}

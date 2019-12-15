@@ -1,8 +1,12 @@
+{% assign localLang = page.lang %}
 <header class="site-header">
 
   <div class="wrapper">
 
-    <a itemprop="url" class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    {% if localLang != "en" %}
+      {% assign siteSuffix = localLang | append: "/" %}
+    {% endif %}
+    <a itemprop="url" class="site-title" href="{{ site.baseurl }}/{{ siteSuffix }}">{{ site.title }}</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -14,11 +18,15 @@
       </a>
 
       <div class="trigger">
-        {% assign pages = site.pages | sort:"weight"  %}
-        {% for page in pages %}
-          {% if page.title and page.weight %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.short_title }}</a>
-          {% endif %}
+        {% for ref in site.main_pages %}
+        {% assign localPage = site.pages | where:"lang", localLang | where:"ref", ref | first %}
+        {% assign englishPage = site.pages | where:"lang", "en" | where:"ref", ref | first %}
+        {% if localPage %}
+          {% assign page = localPage %}
+        {% else %}
+          {% assign page = englishPage %}
+        {% endif %}
+        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.short_title }}</a>
         {% endfor %}
       </div>
     </nav>
