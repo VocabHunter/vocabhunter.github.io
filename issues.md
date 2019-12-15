@@ -4,6 +4,7 @@ layout: page
 permalink: /issues/
 description: How to report a VocabHunter bug
 image: /assets/VocabHunter-Issue.png
+ref: issues
 ---
 
 You can help out by reporting or fixing problems you find.
@@ -39,3 +40,5 @@ The `system.log` file contains information that can help to find out what VocabH
 # Fixing Problems
 
 VocabHunter is Open Source Software and the project welcomes code contributions.  If you can fix the problem yourself, please send a [GitHub Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+
+{% include language.html %}

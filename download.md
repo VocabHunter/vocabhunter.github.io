@@ -3,9 +3,9 @@ layout: page
 title: Download VocabHunter
 short_title: Download
 permalink: /download/
-weight : 4
 description: Download VocabHunter for Mac, Windows or Linux
 image: /assets/VocabHunter-Download.png
+ref: download
 ---
 
 VocabHunter is available for Mac, Windows and Linux.
@@ -51,3 +51,5 @@ A full list of releases for download can be found on the [project release page](
 If you'd like to build VocabHunter from the source code and even contribute to the project, you can find it on GitHub at: [https://github.com/VocabHunter/VocabHunter](https://github.com/VocabHunter/VocabHunter).
 
 VocabHunter is Open Source Software, published under the [Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+
+{% include language.html %}
