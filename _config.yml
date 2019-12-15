@@ -33,8 +33,10 @@ main_pages:
 languages:
   en:
     name: "English"
+    english: "English"
   es:
     name: "Español"
+    english: "Inglés"
 
 defaults:
   - scope:

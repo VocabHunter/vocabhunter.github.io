@@ -23,10 +23,12 @@
         {% assign englishPage = site.pages | where:"lang", "en" | where:"ref", ref | first %}
         {% if localPage %}
           {% assign page = localPage %}
+          {% assign shortTitle = page.short_title %}
         {% else %}
           {% assign page = englishPage %}
+          {% assign shortTitle = page.short_title | append:" (" | append:site.languages[localLang].english | append:")" %}
         {% endif %}
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.short_title }}</a>
+        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ shortTitle }}</a>
         {% endfor %}
       </div>
     </nav>
