@@ -17,13 +17,13 @@ _(Esta es la página para descargar VocabHunter.  Si buscas Santulator, lo puede
 
 Descarga la última versión de VocabHunter para Apple Mac aquí: [VocabHunter-{{site.release_version}}.pkg](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.pkg)
 
-Haz doble click en el fichero y el sistema te guía por la instalación de VocabHunter en tu Mac.  Cuando tengas hecha la instalación puedes arrancar `VocabHunter.app` desde la carpeta `Applications`, tal como cualquier otra aplicación de Mac.
+Haz doble click en el fichero y el sistema te guiará por la instalación de VocabHunter en tu Mac.  Cuando tengas hecha la instalación podrás arrancar `VocabHunter.app` desde la carpeta `Applications`, tal como harías con cualquier otra aplicación de Mac.
 
 # Microsoft Windows
 
-En Microsoft Windows, ante todo descarga el instalador de VocabHunter, [VocabHunter-{{site.release_version}}.exe](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.exe).
+En Microsoft Windows, primero de todo descarga el instalador de VocabHunter, [VocabHunter-{{site.release_version}}.exe](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.exe).
 
-Al arrancar el ejecutable, un wizard te ayudará a instalar VocabHunter en tu PC.  Al final del proceso tendrás la opción de correr VocabHunter.
+Al arrancar el ejecutable, un wizard te ayudará a instalar VocabHunter en tu PC.  Al final del proceso tendrás la opción de ejecutar VocabHunter.
 
 # Linux
 
@@ -35,11 +35,11 @@ Puedes instalar el paquete así:
 $ sudo dpkg -i vocabhunter-{{site.release_version}}.deb
 ~~~
 
-Con esto, VocabHunter funciona como cualquier aplicación de escritorio de Linux.
+Haciendo esto, VocabHunter funcionará como cualquier aplicación de escritorio de Linux.
 
 # Qué hacer ahora
 
-Con el sistema instalado, puedes empezar a buscar vocabulario nuevo.  Ve la página de [ayuda](/es/help) para la guía de como usar VocabHunter.
+Con el sistema instalado, puedes empezar a buscar vocabulario nuevo.  Ve la página de [ayuda](/es/help) para ver la guía de cómo usar VocabHunter.
 
 Para tener las últimas noticias sobre VocabHunter, incluyendo alertas sobre nuevas versiones, sigue [@{{site.twitter.username}}]({{site.twitter.link}}) en Twitter.
 
@@ -49,7 +49,7 @@ Puedes ver una lista completa de las versiones en [esta página](https://github.
 
 # Para informáticos
 
-Si quieres construir VocabHunter usando el código fuente o quizás contribuir trabajo al proyecto, lo puedes encontrar en GitHub en: [https://github.com/VocabHunter/VocabHunter](https://github.com/VocabHunter/VocabHunter).
+Si quieres desarrollar VocabHunter usando el código fuente o quizás contribuir aportando tu trabajo al proyecto, lo puedes encontrar en GitHub en: [https://github.com/VocabHunter/VocabHunter](https://github.com/VocabHunter/VocabHunter).
 
 VocabHunter está disponible de manera gratuita y es un software de Open Source, publicado bajo la [Licencia de Apache, Versión 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
