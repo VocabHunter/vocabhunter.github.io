@@ -14,9 +14,9 @@ _(This is the download page for VocabHunter.  If you're looking for Santulator, 
 
 # Apple Mac
 
-Download the latest release of VocabHunter for the Apple Mac here: [VocabHunter-{{site.release_version}}.pkg](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.pkg)
+Download the latest release of VocabHunter for the Apple Mac here: [VocabHunter-{{site.release_version}}.dmg](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.dmg)
 
-Double click the file and you will be guided through installing VocabHunter on your Mac.  Once the installation is complete you will be able to run `VocabHunter.app` from your `Applications` folder, just like any other Mac application.
+Double click the file and in the window that opens, drag the `VocabHunter.app` file into the `Applications` folder.  You should be able to launch it like any other Mac application.
 
 # Microsoft Windows
 
@@ -26,12 +26,12 @@ When you run this executable you will be taken through a wizard to help you to i
 
 # Linux
 
-The latest release of VocabHunter can be downloaded as a `.deb` file here: [vocabhunter-{{site.release_version}}.deb](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/vocabhunter-{{site.release_version}}.deb).
+The latest release of VocabHunter can be downloaded as a `.deb` file here: [vocabhunter_{{site.release_version}}-1_amd64.deb](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/vocabhunter_{{site.release_version}}-1_amd64.deb).
 
 You can install the package as follows:
 
 ~~~
-$ sudo dpkg -i vocabhunter-{{site.release_version}}.deb
+$ sudo dpkg -i vocabhunter_{{site.release_version}}-1_amd64.deb
 ~~~
 
 VocabHunter will now run like any other Linux desktop application.

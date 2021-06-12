@@ -15,9 +15,9 @@ _(Esta es la página para descargar VocabHunter.  Si buscas Santulator, lo puede
 
 # Apple Mac
 
-Descarga la última versión de VocabHunter para Apple Mac aquí: [VocabHunter-{{site.release_version}}.pkg](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.pkg)
+Descarga la última versión de VocabHunter para Apple Mac aquí: [VocabHunter-{{site.release_version}}.dmg](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/VocabHunter-{{site.release_version}}.dmg)
 
-Haz doble click en el fichero y el sistema te guiará por la instalación de VocabHunter en tu Mac.  Cuando tengas hecha la instalación podrás arrancar `VocabHunter.app` desde la carpeta `Applications`, tal como harías con cualquier otra aplicación de Mac.
+Haz doble click en el fichero.  En la ventana que se abre, arrastra `VocabHunter.app` a la carpeta `Applications`.  Cuando tengas hecha la instalación podrás arrancar `VocabHunter.app` desde la carpeta `Applications`, tal como harías con cualquier otra aplicación de Mac.
 
 # Microsoft Windows
 
@@ -27,12 +27,12 @@ Al arrancar el ejecutable, un wizard te ayudará a instalar VocabHunter en tu PC
 
 # Linux
 
-Se puede descargar la última versión de VocabHunter como fichero `.deb` aquí: [vocabhunter-{{site.release_version}}.deb](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/vocabhunter-{{site.release_version}}.deb).
+Se puede descargar la última versión de VocabHunter como fichero `.deb` aquí: [vocabhunter_{{site.release_version}}-1_amd64.deb](https://github.com/VocabHunter/VocabHunter/releases/download/{{site.release_version}}/vocabhunter_{{site.release_version}}-1_amd64.deb).
 
 Puedes instalar el paquete así:
 
 ~~~
-$ sudo dpkg -i vocabhunter-{{site.release_version}}.deb
+$ sudo dpkg -i vocabhunter_{{site.release_version}}-1_amd64.deb
 ~~~
 
 Haciendo esto, VocabHunter funcionará como cualquier aplicación de escritorio de Linux.
