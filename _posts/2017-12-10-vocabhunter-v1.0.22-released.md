@@ -46,7 +46,7 @@ ___
 * [Dependency Injection in JavaFX]
 * [VocabHunter – A tool for learners of foreign languages][KingTechBlog1] (King Tech Blog)
 * [Open Source & Secret Santa with Santulator] (King Tech Blog)
-* [Using the Java Packager with JDK 11] (Medium)
+* [Installable Java Apps with jpackage]
 
 [Dependency Injection in JavaFX]:/2016/11/13/JavaFX-Dependency-Injection.html
 [User Interface Testing with TestFX]:/2016/07/27/TestFX.html
@@ -54,7 +54,7 @@ ___
 [Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
 [How to Use VocabHunter]:/help
 [Migrating to JUnit 5]:/2017/10/17/migrating-to-junit-5.html
-[Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
+[Installable Java Apps with jpackage]:/2021/07/10/installable-java-apps-with-jpackage.html
 
 [GitHub]:https://github.com/VocabHunter/VocabHunter
 

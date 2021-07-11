@@ -19,18 +19,17 @@ In the article you can find out about how Santulator works behind the scenes.  T
 ___
 
 # Related Articles
-* [Using the Java Packager with JDK 11] (Medium)
+* [Installable Java Apps with jpackage]
 * [How JavaFX was used to build a desktop application] (King Tech Blog)
 * [User Interface Testing with TestFX]
 * [Dependency Injection in JavaFX]
 * [Building a JavaFX Search Bar]
 * [Read (Almost) Any Document in Java]
 
-[Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
 [How JavaFX was used to build a desktop application]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
 [User Interface Testing with TestFX]:/2016/07/27/TestFX.html
 [Dependency Injection in JavaFX]:/2016/11/13/JavaFX-Dependency-Injection.html
 [Building a JavaFX Search Bar]:/2017/01/15/Search-Bar.html
 [Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
 [Open Source & Secret Santa with Santulator]:https://medium.com/techking/open-source-secret-santa-with-santulator-9101972359fc
-[Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
+[Installable Java Apps with jpackage]:/2021/07/10/installable-java-apps-with-jpackage.html

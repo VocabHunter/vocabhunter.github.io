@@ -253,7 +253,7 @@ JUnit 5 is a welcome update to an already very valuable framework.   Hopefully m
 ___
 
 # Related Articles
-* [Using the Java Packager with JDK 11] (Medium)
+* [Installable Java Apps with jpackage]
 * [User Interface Testing with TestFX]
 * [Read (Almost) Any Document in Java]
 * [How JavaFX was used to build a desktop application][KingTechBlog2] (King Tech Blog)
@@ -270,7 +270,7 @@ ___
 [User Interface Testing with TestFX]:/2016/07/27/TestFX.html
 [Building a JavaFX Search Bar]:/2017/01/15/Search-Bar.html
 [Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
-[Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
+[Installable Java Apps with jpackage]:/2021/07/10/installable-java-apps-with-jpackage.html
 
 [KingTechBlog1]:https://medium.com/techking/vocabhunter-a-tool-for-learners-of-foreign-languages-55c467a6250c
 [KingTechBlog2]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
