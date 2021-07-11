@@ -20,6 +20,11 @@ The main changes in this release are:
 
 VocabHunter v2.3.0 is available now as a free [download](/download).  The software is all Open Source so if you are technically-minded please feel free to [fork the repository on GitHub][GitHub] and experiment.
 
+# Installable Java Apps with jpackage
+[![Installable Java Apps with jpackage](/assets/jpackage-installable-java-apps.png){: .center-image }][Installable Java Apps with jpackage]
+
+There is no need to install Java if you want to use VocabHunter.  Everything you need is contained in the installable bundles you'll find on the [download page](/download).  If you'd like to know how this is achieved, have a look at the article [Installable Java Apps with jpackage].
+
 {% include share.html %}
 ___
 
@@ -35,9 +40,10 @@ ___
 [User Interface Testing with TestFX]:/2016/07/27/TestFX.html
 [Building a JavaFX Search Bar]:https://medium.com/@adam_carroll/building-a-javafx-search-bar-6714a27c93d7
 [Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
+[Installable Java Apps with jpackage]:/2021/07/10/installable-java-apps-with-jpackage.html
 
 [GitHub]:https://github.com/VocabHunter/VocabHunter
-[PACKAGING.md]:https://github.com/VocabHunter/VocabHunter/blob/2.3.0/package/PACKAGING.md
+[PACKAGING.md]:https://github.com/VocabHunter/VocabHunter/blob/master/package/PACKAGING.md
 
 [KingTechBlog1]:https://medium.com/techking/vocabhunter-a-tool-for-learners-of-foreign-languages-55c467a6250c
 [KingTechBlog2]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc

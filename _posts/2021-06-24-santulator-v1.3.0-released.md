@@ -26,13 +26,17 @@ Santulator is available for free and is Open Source software.  All of the source
 
 [![Download Santulator](/assets/Santulator-Download-Link.png){: .center-image }][Santulator Download]
 
+# Installable Java Apps with jpackage
+[![Installable Java Apps with jpackage](/assets/jpackage-installable-java-apps.png){: .center-image }][Installable Java Apps with jpackage]
+
+There is no need to install Java if you want to use Santulator.  Everything you need is contained in the installable bundles you'll find on the [download page][Santulator Download].  If you'd like to know how this is achieved, have a look at the article [Installable Java Apps with jpackage].
+
 {% include share.html %}
 ___
 
 # Related Articles
 * [Open Source & Secret Santa with Santulator] (King Tech Blog)
 * [Building a JavaFX Search Bar]
-* [Using the Java Packager with JDK 11] (Medium)
 * [Read (Almost) Any Document in Java]
 * [How JavaFX was used to build a desktop application] (King Tech Blog)
 * [Dependency Injection in JavaFX]
@@ -43,13 +47,13 @@ ___
 [Dependency Injection in JavaFX]:/2016/11/13/JavaFX-Dependency-Injection.html
 [Building a JavaFX Search Bar]:/2017/01/15/Search-Bar.html
 [Read (Almost) Any Document in Java]:/2017/04/30/Read-Any-Document-Format.html
-[Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
+[Installable Java Apps with jpackage]:/2021/07/10/installable-java-apps-with-jpackage.html
 [Open Source & Secret Santa with Santulator]:https://medium.com/techking/open-source-secret-santa-with-santulator-9101972359fc
 
 [GitHub]:https://github.com/Santulator/Santulator
 [Santulator]:https://santulator.github.io/
 [Santulator Download]:https://santulator.github.io/download/
-[PACKAGING.md]:https://github.com/Santulator/Santulator/blob/1.3.0/package/PACKAGING.md
+[PACKAGING.md]:https://github.com/Santulator/Santulator/blob/master/package/PACKAGING.md
 
 [OpenJFX]:https://openjfx.io/
 [AdoptOpenJDK]:https://adoptopenjdk.net/
