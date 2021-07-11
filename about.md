@@ -16,6 +16,7 @@ The system is Open Source Software, published under the [Apache Licence, Version
 
 # Technical Articles
 
+* [Installable Java Apps with jpackage] - There is a separate installer for Mac, Linux and Windows, each one tailored to the operating system in question.  These installable bundles are self-contained so that the user doesn't need to have to worry about first installing Java or any other special setup.  This article explains how this was achieved using _jpackage_.
 * [Read (Almost) Any Document in Java] - VocabHunter uses Apache Tika to read documents in a wide variety of formats ranging from Microsoft Word through to PDF.  This article explains how it is done.
 * [How JavaFX was used to build a desktop application] (King Tech Blog) - A detailed look at several important features of JavaFX using VocabHunter as an example.
 * [Migrating to JUnit 5] - How the VocabHunter project was updated to use JUnit 5 for testing.  This article explains the changes that were made, the problems that were encountered and how they were solved.
@@ -35,7 +36,6 @@ Like all good Open Source projects, VocabHunter builds on the software and work 
 * VocabHunter uses [FontAwesomeFX] to generate various icons from the [Font Awesome] set.
 * Dependency Injection is handled with [Gluon Ignite] and [Guice].  You can find out all about this in the article [Dependency Injection in JavaFX].
 * [JUnit] is used as the principle testing framework.  [Migrating to JUnit 5] explains how the VocabHunter project was migrated to the latest verson of JUnit.
-* There is a separate installer for Mac, Linux and Windows, each one tailored to the operating system in question.  These installable bundles are self-contained so that the user doesn't need to have to worry about first installing Java or any other special setup.  The article [Using the Java Packager with JDK 11] explains how this was achieved.
 
 Finally, some acknowledgements for this website:
 
@@ -55,7 +55,7 @@ Finally, some acknowledgements for this website:
 
 [VocabHunter – A tool for learners of foreign languages]:https://medium.com/techking/vocabhunter-a-tool-for-learners-of-foreign-languages-55c467a6250c
 [How JavaFX was used to build a desktop application]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
-[Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
+[Installable Java Apps with jpackage]:/2021/07/10/installable-java-apps-with-jpackage.html
 
 [JavaFX]:https://openjfx.io/
 [Apache Tika]:https://tika.apache.org/
