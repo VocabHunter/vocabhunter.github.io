@@ -22,7 +22,7 @@ The system is Open Source Software, published under the [Apache Licence, Version
 * [Migrating to JUnit 5] - How the VocabHunter project was updated to use JUnit 5 for testing.  This article explains the changes that were made, the problems that were encountered and how they were solved.
 * [Dependency Injection in JavaFX] - How to Gluon Ignite and Google Guice are used for the  Dependency Injection in VocabHunter.
 * [User Interface Testing with TestFX] - A guide to automating user interface tests using TestFX.  VocabHunter includes a complete automated GUI test suite and here you can learn how it works.
-* [Building a JavaFX Search Bar] - How the user interface for the VocabHunter search bar works with details of the use of ControlsFX and FontAwesomeFX in giving the bar a distinctive style.
+* [Building a JavaFX Search Bar] - How the user interface for the VocabHunter search bar works with details of the use of ControlsFX in giving the bar a distinctive style.
 * [VocabHunter – A tool for learners of foreign languages] (King Tech Blog) - An introduction to some of the technologies being used in VocabHunter.
 
 # Acknowledgements and Thanks
@@ -33,7 +33,7 @@ Like all good Open Source projects, VocabHunter builds on the software and work 
 * [TestFX][TestFXProject] is used for the automated GUI test.  The detailed guide [User Interface Testing with TestFX] explains how this works.
 * [ControlsFX] is used for some of the GUI components including the status bar.
 * The [Apache Tika] project provides the components that make it possible to read a wide variety of document formats.  You can learn more about this in the article [Read (Almost) Any Document in Java].
-* VocabHunter uses [FontAwesomeFX] to generate various icons from the [Font Awesome] set.
+* VocabHunter uses various icons from the [Font Awesome] set.
 * Dependency Injection is handled with [Gluon Ignite] and [Guice].  You can find out all about this in the article [Dependency Injection in JavaFX].
 * [JUnit] is used as the principle testing framework.  [Migrating to JUnit 5] explains how the VocabHunter project was migrated to the latest verson of JUnit.
 
@@ -62,7 +62,6 @@ Finally, some acknowledgements for this website:
 [TestFXProject]:https://github.com/TestFX/TestFX
 [ControlsFX]:https://github.com/controlsfx/controlsfx
 [Font Awesome]:https://fortawesome.github.io/Font-Awesome/
-[FontAwesomeFX]:https://bitbucket.org/Jerady/fontawesomefx
 [Gluon Ignite]:http://gluonhq.com/labs/ignite/
 [Guice]:https://github.com/google/guice
 [JUnit]:http://junit.org/
