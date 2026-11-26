@@ -6,10 +6,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://vocabhunter.github.io" # the base hostname & protocol for your site
 logo: /assets/VocabHunter-Logo.png
 
-twitter:
-  username: vocabhunterapp
-  link: https://twitter.com/vocabhunterapp
-
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag

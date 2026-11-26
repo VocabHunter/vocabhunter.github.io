@@ -138,7 +138,7 @@ Aquí podrás seleccionar si quieres excluir sólo las palabras que previamente 
 
 ## Novedades y anuncios
 
-Para tener las últimas noticias sobre VocabHunter, incluyendo alertas sobre nuevas versiones, sigue [@{{site.twitter.username}}]({{site.twitter.link}}) en Twitter. Si te interesa la tecnología que hay detrás de VocabHunter, dirígete al [proyecto Open Source de VocabHunter en GitHub](https://github.com/VocabHunter/VocabHunter).
+Si te interesa la tecnología que hay detrás de VocabHunter, dirígete al [proyecto Open Source de VocabHunter en GitHub](https://github.com/VocabHunter/VocabHunter).
 
 ## Qué hacer si encuentras un error
 

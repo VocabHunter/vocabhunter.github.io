@@ -129,7 +129,7 @@ Here you can select whether you would like to exclude just the words that you pr
 
 ## News and Announcements
 
-To get all the latest news about VocabHunter including announcements of new releases, follow [@{{site.twitter.username}}]({{site.twitter.link}}) on Twitter.  If you are technically minded, fork the [VocabHunter Open Source project on GitHub](https://github.com/VocabHunter/VocabHunter).
+If you are technically minded, fork the [VocabHunter Open Source project on GitHub](https://github.com/VocabHunter/VocabHunter).
 
 ## What to Do if You Find a Bug
 

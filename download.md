@@ -40,8 +40,6 @@ VocabHunter will now run like any other Linux desktop application.
 
 Once you've installed the system and started it up you can begin hunting for vocab.  See the [help](/help) page for a guide to using VocabHunter.
 
-To get all the latest news about VocabHunter including announcements of new releases, follow [@{{site.twitter.username}}]({{site.twitter.link}}) on Twitter.
-
 # Older Releases
 
 A full list of releases for download can be found on the [project release page](https://github.com/VocabHunter/VocabHunter/releases).

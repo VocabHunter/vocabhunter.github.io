@@ -14,8 +14,6 @@ The program runs on Microsoft Windows, Apple OS X and Linux.  The system itself 
 
 VocabHunter is available free of charge and is Open Source Software, published under the [Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-To get all the latest news about VocabHunter including announcements of new releases, follow [@{{site.twitter.username}}]({{site.twitter.link}}) on Twitter.
-
 Happy vocab hunting and good luck with your language study!
 
 {% include language.html %}

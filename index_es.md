@@ -22,8 +22,6 @@ El programa funciona en Microsoft Windows, Apple OS X y Linux. Una vez descargad
 
 VocabHunter está disponible de manera gratuita y es un software de Open Source, publicado bajo la [Licencia de Apache, Versión 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-Para conocer las últimas novedades sobre VocabHunter, incluyendo alertas de nuevas versiones disponibles, puedes seguir la cuenta de VocabHunter en Twitter que es [@{{site.twitter.username}}]({{site.twitter.link}}).
-
 ¡Feliz búsqueda de palabras y buena suerte en tu aprendizaje de un nuevo idioma!
 
 {% include language.html %}

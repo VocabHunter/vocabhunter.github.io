@@ -163,7 +163,7 @@ Finally, when running _jpackage_ on Linux, a warning is emitted to say that a li
 
 _jpackage_ is a great addition to Java. I'm sure I'm not the only one who really appreciates the work that was put in by the JDK team to create this very useful tool.
 
-I hope that this article has inspired you to experiment with _jpackage_. Also, as the author of [VocabHunter] I'd like to invite you to [download the program][Download VocabHunter] and try it out. It's free and Open Source. Feel free to fork the [VocabHunter repository on GitHub][GitHub] and play around with the code to see how it works. To keep up with the latest developments relating to [VocabHunter] and [Santulator], follow [@{{site.twitter.username}}]({{site.twitter.link}}) on Twitter.
+I hope that this article has inspired you to experiment with _jpackage_. Also, as the author of [VocabHunter] I'd like to invite you to [download the program][Download VocabHunter] and try it out. It's free and Open Source. Feel free to fork the [VocabHunter repository on GitHub][GitHub] and play around with the code to see how it works.
 
 {% include share.html %}
 ___
@@ -186,7 +186,6 @@ ___
 
 [VocabHunter]:/
 [Download VocabHunter]:/download
-[Santulator]:https://santulator.github.io/
 
 [GitHub]:https://github.com/VocabHunter/VocabHunter
 [FixedVersion]:https://github.com/VocabHunter/VocabHunter/tree/2.3.0

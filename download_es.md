@@ -41,8 +41,6 @@ Haciendo esto, VocabHunter funcionará como cualquier aplicación de escritorio 
 
 Con el sistema instalado, puedes empezar a buscar vocabulario nuevo.  Ve la página de [ayuda](/es/help) para ver la guía de cómo usar VocabHunter.
 
-Para tener las últimas noticias sobre VocabHunter, incluyendo alertas sobre nuevas versiones, sigue [@{{site.twitter.username}}]({{site.twitter.link}}) en Twitter.
-
 # Versiones más antiguas
 
 Puedes ver una lista completa de las versiones en [esta página](https://github.com/VocabHunter/VocabHunter/releases).
